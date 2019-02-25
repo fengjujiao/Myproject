@@ -1,0 +1,53 @@
+ {
+      "intensive":[
+        {
+            "title":"../image/tast/jingdu.png",
+            "img":"../image/tast/inten1.jpg",
+            "span":"到西藏，这“七宗最”千万别错过"
+        },
+        {
+            "img":"../image/tast/inten2.jpg",
+            "span":"西藏饮食上的“四宝”，最后一样一般人都难以接受"
+        },
+        {
+            "img":"../image/tast/inten3.jpg",
+            "span":"四条经典进藏路，每一条都不舍得错过"
+        },
+        {
+            "img":"../image/tast/inten4.jpg",
+            "span":"它是中国唯一一个门票200元，每天仍需限制人数与时间参观的地方"
+        }
+    ],
+        "intensive1":[
+            {
+                "title":"../image/tast/tushuo.png",
+                "img":"../image/tast/inten5.jpg",
+                "span":"国道318"
+            },
+            {
+                "img":"../image/tast/inten6.jpeg",
+                "span":" 第20期：日喀则的美景只能仰望？怪不得"
+            },
+            {
+                "img":"../image/tast/inten7.jpg",
+                "span":" 画卷.那曲草原"
+            },
+            {
+                "img":"../image/tast/inten8.jpg",
+                "span":" 布达拉宫"
+            },
+            {
+                "img":"../image/tast/inten9.jpg",
+                "span":" 这里，就是西藏"
+            },
+            {
+                "img":"../image/tast/inten10.jpg",
+                "span":" 阿里，苍凉的心跳"
+            },
+            {
+                "img":"../image/tast/inten11.jpg",
+                "span":" 画卷.阿里"
+            }
+        ]
+
+  }

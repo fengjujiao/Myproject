@@ -1,0 +1,70 @@
+{
+    "classify": "智能",
+    "contents": [
+        {
+            "name": "三星Gear Fit 手环",
+            "des": "人气商品 畅销明星款",
+            "color": ["黑色", "红色"],
+            "price": "1499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QFeAZ7GXAANZcdLRBUk293.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFiAanbfAAIS0xj9ltE851.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QD6AeFhGAANqZO2Aimw609.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "猎豹移动小豹ai翻译棒便携语音翻译",
+            "des": "一键翻译，灵活方便",
+            "color": ["黑色"],
+            "price": "299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTOAf82xAAJAcMkrsAs736.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTeAdzsKAANgWREQY9w835.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTaAZX0gAAp50cEtB4Y624.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅族手环",
+            "des": "腕间流动的心率专家",
+            "color": ["黑色"],
+            "price": "169.00",
+            "stock": true,
+            "compatible": "Android/iOS",
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAQPDGAAPhPu3QlRw570.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAE13JAAK1qX5uOUc838.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFvmAKqehAAEitg7s_D0643.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Misfit Shine2智能手环 定制版",
+            "des": "彩色LED 无需充电 魅族定制版",
+            "color": ["玫瑰金"],
+            "price": "799.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyADceJAAKQd4GC3LI459.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyAfdELAAPbqeWnrug391.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKK-AcjyTAAcArYn8bXg075.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png@240x240.jpg"
+            ]
+        }
+    ]
+}

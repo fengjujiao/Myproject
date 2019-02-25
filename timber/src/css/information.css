@@ -1,0 +1,125 @@
+.need{
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-weight: bold;
+}
+.need>div{
+  background: #ffffff;
+}
+.need-line{
+    border-bottom: 1px solid #F5F5F5;
+    padding: 10px;
+}
+/* 选项卡 */
+.tab-group {
+    position: relative;
+    margin-top: 2.5em;
+  }
+  .tab-group section {
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 0.4s ease, height 0.4s ease;
+  }
+  .tab-group section.active {
+    opacity: 1;
+    height: auto;
+    overflow: hidden;
+    padding: 10px 1em;
+  }
+  .tab-nav {
+    list-style: none;
+    margin: -2.5em -1px 0 0;
+    padding: 0;
+    height: 2.5em;
+    overflow: hidden;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000000;
+  }
+  .tab-nav li {
+    display: inline;
+  }
+  .tab-nav li a {
+    top: 1px;
+    position: relative;
+    display: block;
+    float: left;
+    color: #A2A2A2;
+    line-height: 2em;
+    padding: 0 1em;
+    text-decoration: none;
+    color: grey;
+    margin-top: .5em;
+    margin-right: 1px;
+    font-size: 15px;
+    transition: background .2s ease, line-height .2s ease, margin .2s ease;
+  }
+  .tab-nav li.active a {
+    color: black;
+  }
+  /* 文章内容 */
+  .text{
+    padding: 15px 0;
+    border-bottom: 1px solid #A2A2A2;
+  }
+  .big-text{
+    font-size: 16px;
+    padding-bottom: 15px;
+  }
+  .text p{
+    color: rgb(24, 23, 23);
+    font-weight: normal;
+    padding-bottom: 15px;
+  }
+  .text-date{
+    display: flex;
+    justify-content: space-between;
+  }
+  .date-color{
+    color: #9E9E9E;
+    font-weight: normal;
+  }
+  .text-more{
+    padding: 1px 8px;
+    border: 1px solid #C4C4C4;
+    margin-right: 28px;
+    color: #5B5B5B;
+  }
+  .flex{
+    display: flex;
+    justify-content: space-between;
+  }
+  .text-left{
+    margin-right: 20px;
+    margin-top: -5px;
+  }
+  .text-left img{
+    width: 150px;
+    height: 120px;
+  }
+  .page-cla{
+    float: right;
+    margin-top: 100px;
+    font-weight: normal;
+}
+.page-cla span{
+    margin-left: 10px;
+}
+.num{
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    border: 1px solid #eeeeee;
+}
+.borde{
+    padding: 1px 4px;
+    border: 1px solid #eeeeee;
+}
+.num-gray{
+    padding: 1px 5px;
+    background: #E6E6E6;
+}
+.container{
+  margin-bottom: 15px;
+}

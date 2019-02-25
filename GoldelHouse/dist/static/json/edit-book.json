@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Java开发实战经典",
+        "describe": "本书从初学者的角度，以丰富的实例、案例，通俗易懂的语言，简单的图示，详细地介绍了Java开发中重点用到的多种技术。全书分为21章，包括需要重点掌握的：环境搭建、简单Java程序、JAVA基础程序设计、数组与方法、面向对象（基础篇）、面向对象（高级篇）、异常的捕获及处理、包及访问控制权限、Java常用类库、Java IO、Java类集、Java数据库编程；需要理解掌握的：多线程、泛型、枚举、Java反射机制、Annotation、Eclipse开发工具；需要了解掌握的：图形界面、Java 网络编程、JAVA新IO等内容。本书适合Java技术的初学者，也适合作为培训中心、计算机相关专业的参考书。",
+        "author": "李兴华",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/51TN9QA-eAL._SX346_BO1,204,203,200_.jpg",
+        "price": 70.00
+    },
+    {
+        "name": "编写可维护的JavaScript",
+        "describe": "《编写可维护的JavaScript》向开发人员阐述了如何在团队开发中编写具备高可维护性的JavaScript代码，书中详细说明了作为团队一分子，应该怎么写JavaScript。书中内容涵盖了编码风格、编程技巧、自动化、测试等几方面，既包括具体风格和原则的介绍，也包括示例和技巧说明，最后还介绍了如何通过自动化的工具和方法来实现一致的编程风格。",
+        "author": "Nicholas C. Zakas",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/51V3g6KWOnL._SX375_BO1,204,203,200_.jpg",
+        "price": 36.30,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    },
+    {
+        "name": "JavaScript设计模式",
+        "describe": "设计模式是解决软件设计中常见问题的可复用方案。学习任何编程语言，设计模式都是一个令人兴奋和极具吸引力的话题。《JavaScript设计模式》是JavaScript设计模式的学习指南。全书分为14章。首先介绍了什么是模式、模式的结构、类别、模式的分类、如何编写模式等等；然后，集中介绍了很多流行的设计模式在JavaScript中的应用，包括Module(模块)模式、Observer(观察者)模式、Facade(外观)模式和Mediator(中介者)模式；最后，还探讨了模块化的JavaScript模式、jQuery及其插件中的设计模式。",
+        "author": "Addy Osmani",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/51X5uXvHDVL._SX392_BO1,204,203,200_.jpg",
+        "price": 47.50,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    },
+    {
+        "name": "HTML5与CSS3基础教程(第8版)",
+        "describe": "《HTML5与CSS3基础教程(第8版)》自第1版至今，一直是讲解HTML和CSS入门知识的经典畅销书，全面系统地阐述HTML5和CSS3基础知识以及实际运用技术，通过大量实例深入浅出地分析了网页制作的方方面面。最新第8版不仅介绍了文本、图像、链接、列表、表格、表单等网页元素，还介绍了如何为网页设计布局、添加动态效果等，另外还涉及调试和发布。《HTML5与CSS3基础教程(第8版)》提供了一个强大的配套网站，上面列出了书中的完整代码示例以及更多优秀实例及进阶参考资料，以供读者参考学习。 通过学习《HTML5与CSS3基础教程(第8版)》，零起点读者即可创建网站，而中高级水平的开发人员也可以快速了解HTML5新元素、CSS3的奇幻效果、响应式Web设计以及各种最佳实践。",
+        "author": "Elizabeth Castro & Bruce Hyslop",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/41JtpjqBBKL._SX446_BO1,204,203,200_.jpg",
+        "price": 45.50,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    }
+]

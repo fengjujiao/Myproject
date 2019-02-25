@@ -1,0 +1,228 @@
+[
+    {
+        "kind": "手机",
+        "name": "魅族 16th Plus",
+        "model": "16th Plus",
+        "des": "骁龙845  屏幕下指纹",
+        "brand": "魅族",
+        "color": ["静夜黑", "远山白", "激光蓝"],
+        "spec": ["6 + 128GB", "8 + 128GB", "8 + 256GB"],
+        "price": "3498.00",
+        "size": "6.5英寸",
+        "stock": false,
+        "img": [
+            "//openfile.meizu.com/group1/M00/05/E1/Cgbj0FtqgjeAY-5xAAhl9RcNy3s813.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/05/EF/Cgbj0VtqgjGAcA5BAAFsx9dNlBM303.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/05/EF/Cgbj0VtqgjGASVdnAATXgpiVvko560.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/05/E0/Cgbj0FtqgjGAJ530AAJzkmWjqNA436.png680x680.jpg"
+        ],
+        "colorImg": [
+            "https://openfile.meizu.com/group1/M00/05/F0/Cgbj0VtqgjeAV_ChAAfVjwwpNdw016.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/05/E1/Cgbj0FtqgkWALkhxAAkE5Uiy2no917.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/AB/Cgbj0VujRzGADEIWAAdN-7lvIkE357.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind": "耳机",
+        "wear": "入耳式",
+        "type": "有线耳机",
+        "microphone": "有麦克风",
+        "name": "魅族 EP2X 耳机",
+        "model": "EP2X",
+        "des": "契合声音的流动之美",
+        "brand": "魅族",
+        "color": ["珍珠黑", "皓月白"],
+        "price": "69.00",
+        "oldPrice": "99.00",
+        "stock": true,
+        "img": [
+            "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHCAXNI5AAFhUsyWVeM680.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHGAB-DXAADPHff_mNQ945.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHKAKfk3AADagmucX-w385.png680x680.jpg"
+        ],
+        "colorImg": [
+            "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcVpeAOmoaAAGh-ubroNg891.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind": "手机",
+        "name": "魅族 V8 高配版",
+        "model": "V8 高配版",
+        "des": "",
+        "brand": "魅族",
+        "color": ["雅金", "曜黑", "灰蓝", "烟紫"],
+        "spec": ["4 + 64GB"],
+        "price": "1098.00",
+        "oldPrice": "1299.00",
+        "size": "5.7英寸",
+        "stock": true,
+        "img": [
+            "//openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoBmABjqyAAMvon37aMI421.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/C4/Cgbj0FvRoAaAb002AAitd1zBk7c539.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBKAaK3HAAglBrZT3hw222.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoA2AV-EqAAOBq-nt7h4808.png680x680.jpg"
+        ],
+        "colorImg": [
+            "//openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMOAFzUFAARRWnHvM84529.png@240x240.png",
+            "https://openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMyAYB76AATj19tgy08068.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBuAPurkAAKeRCbcKvM061.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoByAY7m7AAKnNypBK54141.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind": "耳机",
+        "wear": "入耳式",
+        "type": "蓝牙耳机",
+        "microphone": "有麦克风",
+        "name": "POP 真无线蓝牙耳机",
+        "model": "POP",
+        "des": "六期免息 双无线 零设限",
+        "brand": "POP",
+        "color": ["皓月白"],
+        "price": "499.00",
+        "oldPrice": "599.00",
+        "stock": true,
+        "img": [
+            "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/04/5B/Cgbj0Fr6g3mAMv7iAAEPK93D2ss728.jpg680x680.jpg",
+            "//openfile.meizu.com/group1/M00/05/B2/Cgbj0Ftf0VWAFEcfAARTZSRrkgc297.jpg680x680.jpg",
+            "//openfile.meizu.com/group1/M00/05/C1/Cgbj0Vtf0VaAaQBxAAn1xRRXqdw560.jpg680x680.jpg"
+        ],
+        "colorImg": [
+            "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png@240x240.png"
+        ]
+    },
+    {
+        "kind": "耳机",
+        "wear": "入耳式",
+        "type": "有线耳机",
+        "microphone": "有麦克风",
+        "name": "ME20入耳式耳机",
+        "model": "ME20",
+        "des": "享受 不绝于耳",
+        "color": ["珍珠黑", "皓月白"],
+        "price": "199.00",
+        "oldPrice": "599.00",
+        "stock": true,
+        "img": [
+            "//openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCuAAjKRAADLUUdnwjk279.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCiAKARJAAFV_VSDp_s040.png680x680.jpg"
+        ],
+        "colorImg": [
+            "https://openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/01/D5/Cgbj0VmRZCiAKwA3AADYrtiPJlQ156.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind": "音箱",
+        "way": "蓝牙/音频接口",
+        "name": "魅族蓝牙小音箱",
+        "des": "好音感 直达心灵",
+        "brand": "魅族",
+        "color": ["深空灰", "皓月白"],
+        "price": "99.00",
+        "stock": false,
+        "bluetooth": "支持",
+        "img": [
+            "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KSAMlqTAAdurCvtioI146.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/01/1C/CnQOjVij7KKAb5ZRAAXB66rgoPs717.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KKAOLQiAAR1Ab8yZkI516.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/01/1C/CnQOjVij7KKAcaEyAAHSmZjjG5E101.png680x680.jpg"
+        ],
+        "colorImg": [
+            "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KeAdy0cAAbboUvsAC4250.png@240x240.png",
+            "https://openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KSAMlqTAAdurCvtioI146.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind" : "其他设备",
+        "name": "魅族智能路由器",
+        "des": "简单便携 即插即用",
+        "brand": "魅族",
+        "color": ["白色"],
+        "price": "49.00",
+        "oldPrice": "69.00",
+        "stock": true,
+        "img": [
+            "//storeimg.meizu.com/product/1449647645-31973.png@680x680.jpg",
+            "//storeimg.meizu.com/product/1449647693-41477.png@680x680.jpg",
+            "//storeimg.meizu.com/product/1449648016-45642.png@680x680.jpg",
+            "//storeimg.meizu.com/product/1449648059-99660.png@680x680.jpg"
+        ],
+        "colorImg": [
+            "//storeimg.meizu.com/product/1449647645-31973.png@240x240.png"
+        ]
+    },
+    {
+        "kind": "手机",
+        "name": "魅族 Note8",
+        "model": "Note8",
+        "des": "国民拍照手机",
+        "brand": "魅族",
+        "color": ["曜黑", "灰蓝", "烟紫", "艳红"],
+        "spec": ["4 + 64GB"],
+        "price": "1298.00",
+        "oldPrice": "1499.00",
+        "size": "6.0英寸",
+        "stock": false,
+        "img": [
+            "//openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPm-AU7iSAAN3TL0zCwc952.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/C2/Cgbj0FvQPkyAeA3jAAlxckyWpiE392.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPmaAJJ_8AAjqfW6zZpI896.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/D3/Cgbj0VvQPliAdzCRAANqob0dHIc404.png680x680.jpg"
+        ],
+        "colorImg": [
+            "https://openfile.meizu.com/group1/M00/06/D4/Cgbj0VvQPnuAAwPPAAMv8zzt2DE910.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPnmABVZHAAM7MXAlUiQ783.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/C4/Cgbj0FvQPoCAVTZOAANhcY1jWUk925.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/C6/Cgbj0FvS5yuAH9FEAAQYDOKm6Kc765.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind": "手环",
+        "name": "魅族手环",
+        "des": "腕间流动的心率专家",
+        "brand": "魅族",
+        "color": ["黑色"],
+        "price": "169.00",
+        "oldPrice": "599.00",
+        "stock": true,
+        "compatible": "Android/iOS",
+        "img": [
+            "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAQPDGAAPhPu3QlRw570.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAE13JAAK1qX5uOUc838.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFvmAKqehAAEitg7s_D0643.png680x680.jpg"
+        ],
+        "colorImg": [
+            "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png@240x240.jpg"
+        ]
+    },
+    {
+        "kind": "手机",
+        "name": "魅族 X8",
+        "model": "X8",
+        "des": "准旗舰游戏拍照手机",
+        "brand": "魅族",
+        "color": ["亮黑", "玉白", "幻蓝"],
+        "spec": ["4 + 64GB", "6 + 64GB", "6 + 128GB"],
+        "price": "1598.00",
+        "oldPrice": "1799.00",
+        "size": "6.2英寸",
+        "stock": true,
+        "img": [
+            "//openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSK-ABWIRAAm412yc0Ac039.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSLGAE44DAAeLveNy2X4743.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSKmAGC6DAAaMxdXOpAY680.png680x680.jpg",
+            "//openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSKiAW4z7AALHc8pivJY472.png680x680.jpg"
+        ],
+        "colorImg": [
+            "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSJyACGwcAAg0epdui5o951.png@240x240.jpg",
+            "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSL6AS8w5AAhRPgc1bQE955.png@240x240.jpg"
+        ]
+    }
+]

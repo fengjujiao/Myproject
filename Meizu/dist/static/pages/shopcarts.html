@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="//www3.res.meizu.com/static/cn/global/images/favicon_2e71785.ico" type="image/x-icon" />
+    <title>购物车</title>
+<link href="../css/shopcarts.css" rel="stylesheet"></head>
+<body>
+    <header>
+        <div class="wid">
+            <div class="logo">
+                <a href="../../index.html">
+                    <img src="data:image/png;base64,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" alt="">
+                </a>
+            </div>
+            <ul class="list">
+                <li>购物车 ></li>
+                <li>确认订单 ></li>
+                <li>在线支付 ></li>
+                <li>完成 </li>
+            </ul>
+            <ul class="wid-right">
+                <li>我的订单</li>
+                <li class="user-login">登陆</li>
+                <li class="user-register">注册</li>
+            </ul>
+        </div>
+    </header>
+    <main>
+        <div class="wid">
+                <div class="wid-border">
+                        <section class="check-box all-check">
+                                <span class="check-item"></span>
+                                <span class="check-tips">全选</span>
+                                
+                        </section>
+                        <span class="wid-price price">单价(元)</span>
+                        <span class="wid-price num">数量</span>
+                        <span class="wid-price total">小计</span>
+                        <span class="wid-price edit">编辑</span>
+                </div>
+                <div class="wid-border box-free">
+                        <section class="check-box  ">
+                                <span class="not-check"></span>
+                                <span class="check-tips">魅族</span>
+                                <span class="free">以免邮费</span>
+                        </section>
+                </div>
+                <ul class="wid-border wid-load">
+                       
+                        </ul>
+                        <div class="wid-border">
+                                <section class="check-box all-check mid">
+                                        <span class="check-item"></span>
+                                        <span class="check-tips">全选</span>
+                                        <span>删除选中的商品</span>
+                                <span>已选择
+                                    <span class="singleton">0</span>
+                                    件商品</span>
+                                </section>
+                                <div class="footer-num">
+                                    <span>已优惠 <span class="num-color">0.00</span>元</span>
+                                    <span>合计(不含运费):</span>
+                                    <span class="big-color">￥<span class="total-price">0.00</span></span>
+                                    <button class="settlement">去结算</button>
+                                </div>
+                                
+                        </div>
+        </div>
+    </main>
+    <footer>
+            <div class="img-footer">
+                    <img src="https://fms.res.meizu.com/dms/2018/08/07/574b1565-b84c-4c86-a361-072819ef78f0.jpg" alt="">
+                </div>
+        <!-- 底部 -->
+        <div class="footer">
+            <ul class="ul-list">  
+                    <li><a href="" class="bord">关于魅族 </a></li>
+                    <li><a href="" class="bord">工作机会 </a></li>
+                    <li><a href="" class="bord">联系我们</a></li>
+                    <li><a href="" class="bord">法律声明</a></li>
+                    <li><a href="" class="bord">常见问题</a></li>
+                    <li><a href="">简体中文</a></li>
+                    <li><a href="">客服热线:400-788-3333</a></li>
+                    <li><a href="" class="blue" style="color:white">在线客服  </a></li> 
+                    </ul>        
+                    <ul class="last-ul" >
+                        <li><a style="color: #7f7f7f;">©2018 Meizu Telecom Equipment Co., Ltd. All rights reserved.</a></li>
+                        <li><a>备案号: 粤ICP备13003602号-4</a></li>
+                        <li><a>经营许可证编号: 粤B2-20130198</a></li>
+                        <li><a>营业执照</a></li>
+                        <li>
+                            <img src="https://uc-res.mzres.com/resources/uc/wlogin/member/images/ghs.png">
+                            <a class="ht-num">粤公网安备 44049102496076号</a>
+                        </li>
+                    </ul>
+            
+           
+        </div>
+    </footer>
+<script type="text/javascript" src="../js/shopcarts.js"></script></body>
+</html>

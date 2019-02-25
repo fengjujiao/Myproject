@@ -1,0 +1,126 @@
+.mine{
+    display: flex;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    padding-bottom: 200px;
+    font-size: 13px;
+}
+.mine>div{
+    background: #ffffff;
+}
+.mine-left{
+    text-align: center;
+    margin-right: 20px;
+    height: 470px;
+    padding-bottom: 20px;
+}
+.mine-ul{
+    width: 150px;
+}
+.mine-ul li,.mine p{
+    margin-bottom: 8px;
+   
+}
+.mine p{
+    font-size: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.mine-ul li {
+    cursor: pointer;
+    color: #686868;
+    padding: 3px 0px;
+}
+.mine-right{
+    width: 800px;
+    height: 470px;
+    padding: 40px;
+}
+.mine-right-ul{
+    position: relative;
+    height: 100%;
+}
+.mine-right-ul li{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    position: absolute;
+}
+.mine-right-ul .open{
+    opacity: 1;
+}
+.act{
+    background: #4DCD3C;
+}
+.head{
+    padding-bottom: 40px;
+    border-bottom: 1px solid #EEEEEE;
+}
+.head,.head-left{
+    display: flex;
+    justify-content: space-between;
+}
+.head-left img{
+    width: 130px;
+    height: 130px;
+}
+.head-border{
+    border: 1px solid #DFE1E5;
+    margin-right: 20px;
+    position: relative;
+}
+.edit-head{
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    color: #ffffff;
+    left: 0;
+    background: rgba(0,0,0,0.6)
+}
+.head-left>div{  
+    padding: 5px;
+    color:#686868; 
+}
+.head-name{
+    margin-top: 25px;
+    font-size: 16px;
+    color: black;
+}
+.head-right section{
+    margin-top: 20px;
+}
+.edit-ipone{
+    padding: 1px 8px;
+    color: #ffffff;
+    letter-spacing: 3px;
+    font-weight: normal;
+    margin-left: 30px;
+    background: #F35806;
+}
+.pay{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.pay-img{
+    display: flex;
+    width: 50%;
+    margin-bottom: 20px;
+}
+.pay-img img{
+    width: 85px;
+    height: 85px;
+}
+.plan-pay{
+    padding: 20px 10px;
+}
+.plan-pay div{
+    margin-bottom: 10px;
+    font-size: 12px;
+    color:#686868; 
+}
+.plan-pay .paln-big{
+    font-size: 15px;
+}

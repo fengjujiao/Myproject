@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+    <head>
+        <title>注册</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="../css/normalized.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/common.css">
+        <link rel="stylesheet" href="../css/register.css">
+    </head>
+    <body>
+        <header>
+            <div class="page">
+                <div class="padd">
+                        <div class="small">欢迎光临昆特木业</div>
+                        <ul class="detail">
+                            <li><a href="">进入商城</a></li>
+                            <li><a href="">我的订单</a>
+                                <i class="iconfont icon-xiala"></i>
+                            </li>
+                            <li><a href="./login.html">[ 账号登陆 ]</a></li>
+                            <li class="green"><a href="">免费注册</a></li>
+                        </ul>
+                </div>
+            </div>
+        </header>
+        <main>
+                <div class="page contain">
+                        <div class="logo">
+                            <img src="../images/logo.jpg" alt="">
+                            <div>
+                                <h1>买木网</h1>
+                                <p>木材全产业链交易平台</p>
+                            </div>
+                        </div>
+                        <div class="user">
+                            用户注册
+                        </div>
+                    </div>
+                    <div class="back">
+                        <!-- 注册 -->
+             <div class="regis">
+            <section class="loin-head">
+                <span>会员注册</span>
+                <span class="res-back"><a href="./login.html">已有账号，立即登陆></a></span>
+            </section>
+            <form class="myForm" action="javascript:;">
+                    <section class="form-item" data-msg="账号格式不匹配(只能包含字母、数字、下划线且字符个数不少于5个不多于10个)">
+                        <input id="username" type="text" placeholder="请输入账号">
+                    </section>
+                    <section class="form-item" data-msg="密码格式不匹配（只能包含字母、数字、下划线，且不低于6个字符）">
+                        <input id="firPassword" type="password" placeholder="请输入密码">
+                    </section>
+                    <section class="form-item" data-msg="两次密码输入不一样">
+                        <input id="secPassword" type="password" placeholder="请再次输入密码">
+                    </section>
+                    <section class="form-item" data-msg="邮箱格式不正确">
+                        <input id="email" type="email" placeholder="请输入邮箱">
+                    </section>
+                    <section class="form-item" data-msg="手机号码不正确">
+                        <input id="tel" type="tel" placeholder="请输入手机号码">
+                    </section>
+                    <section class="verification-code-box form-item" data-msg="验证码不正确">                       
+                        <input id="verificationCode" type="text" placeholder="请输入验证码">
+                        <span class="code"></span>
+                        <span class="change">换一张</span>
+                        
+                    </section>
+                    <button type="button" class="btn regi-btn">立即注册</button>
+                </form>
+        </div>
+                    </div>
+        </main>
+        <footer>
+
+        </footer>
+        <script src="../../node_modules/jquery/dist/jquery.min.js"></script>
+        <script src="../js/function.js"></script>
+        <script src="../js/common.js"></script>
+        <script src="../js/register.js"></script>
+    </body>
+</html>

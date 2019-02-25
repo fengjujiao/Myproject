@@ -1,0 +1,74 @@
+.back{
+    height: 470px;
+}
+/* 注册 */
+.regis{
+    width: 360px;
+    padding: 20px;
+    margin-top: 30px;
+    position: absolute;
+    background: #fff;
+    left:50%;
+    cursor: pointer;
+}
+.loin-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shoer{
+    display: block;
+}
+.myForm{
+    margin-top: 15px;
+}
+input{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    transition: all .25s linear;
+}
+.res-back{
+    cursor: pointer;
+    font-size: 14px;
+    color: rgb(26, 26, 245);
+   
+}
+.form-item{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+}
+.verification-code-box{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.verification-code-box input{
+    width: 50%;
+}
+.verification-code-box .code{
+    width: 25%;
+    height: 100%;
+    background: linear-gradient(to right bottom, #ccc, brown);
+    text-align: center;
+    line-height: 40px;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-left: 10%;
+}
+.change{
+    margin-left: 5px;
+    font-size: 12px;
+    line-height: 45px;
+}
+.regi-btn{
+    width: 100%;
+    height: 40px;
+    background: rgb(113, 172, 226);
+    cursor: pointer;
+    font-size: 18px;
+    letter-spacing: 3px;
+}

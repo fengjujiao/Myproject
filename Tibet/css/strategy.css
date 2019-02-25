@@ -1,0 +1,101 @@
+main{
+    background: #eee;
+    min-width: 1100px;
+    padding: 10px 0 40px;
+}
+main>section,main>p{
+    width: 1200px;
+    margin: 0 auto;
+    columns: #666666;
+}
+main>p{
+    padding: 10px 0;
+}
+main>section{
+    background: #ffffff;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: #8F8F8F;
+    min-height: 600px;
+}
+main>section li{
+    cursor: pointer;
+}
+.nav{
+    overflow: hidden;
+    height: auto;
+    line-height: 55px;
+    border-bottom: 1px dashed #ccc;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.nav span{
+    padding-right: 50px;
+    display: block;
+    float: left;
+}
+.nav:nth-child(2)>span{
+    padding-right: 65px;
+}
+.nav ul{
+    float: left;
+    width: 90%;
+}
+.nav ul>li{
+    float: left;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    list-style: none;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-top: 13px;
+}
+.nav ul>li.show{
+    background: #24C5B3;
+    color: #ffffff;
+}
+.allimg{
+    overflow: hidden;
+    margin-left: 10px;
+    /* position: static; */
+    opacity: 1;
+}
+.nothot{
+    width: 270px;
+    height: 460px;
+    float: left;
+    margin: 20px 0 0 20px;
+}
+.notup{
+    width: 100%;
+    height: 380px;
+    position: relative;
+    transition: all .25s linear;
+}
+.allimg .notup:hover{
+    box-shadow: 0 0 15px rgb(53, 51, 51);
+}
+.notdown{
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 25px;
+    text-align: center;
+    line-height: 34px;
+    height: 34px;
+    border: 5px;
+    color: #ffffff;
+    background: #24C5B3;
+    border-radius: 5px;
+}
+.nothid{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding: 10px;
+    color: #ffffff;
+    background: rgba(0,0,0,0.4);
+    box-sizing: border-box;
+}

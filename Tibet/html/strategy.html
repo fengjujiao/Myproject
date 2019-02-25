@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>攻略</title>
+    <link rel="shortcut icon" href="../image/ico/bitbug_favicon.ico">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/strategy.css">
+    <link rel="stylesheet" href="../plugin/LHYAlertView.css">
+    <link rel="stylesheet" href="../font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+     <!-- 头部内容 -->
+     <header>
+        <div class="clear-float">
+            <div class="logo">
+                <img src="../image/home/header-logo.png">
+            </div>
+            <ul class="navi">
+                <li>
+                        <a href="../index.html">
+                            <span>首页</span>
+                        </a>
+                    </li>
+                <li>
+                        <a href="./scenic.html">
+                                <span>景点</span>
+                            </a>
+                </li>
+                <li class="hand">
+                        <a href="./tast.html">
+                                <span>
+                                    品味西藏
+                                    <img class="dxx" src="../image/home/dxxx.png">
+                                    <img class="dxxs" src="../image/home/dxxxs.png">
+                                </span>
+                            </a>
+                            <ul class="hid">
+                                <li><a href="">西藏动态</a></li>
+                                <li><a href="">精读西藏</a></li>
+                                <li><a href="./description.html">图说西藏</a></li>
+                                <li><a href="">回眸西藏</a></li>
+                            </ul>
+                </li>
+                <li class="hand">
+                        <a href="">
+                                <span>
+                                    社区
+                                    <img class='dxx' src="../image/home/dxxx.png">
+                                    <img class="dxxs" src="../image/home/dxxxs.png">
+                                </span>
+                            </a>
+                            <ul class="hid">
+                                <li><a href="">游记</a></li>
+                                <li><a href="">问答</a></li>
+                                <li><a href="">结伴</a></li>
+                            </ul>
+                </li>
+                <li>
+                        <a href="./strategy.html">
+                                <span>攻略</span>
+                            </a>
+                </li>
+                <li>
+                        <a href="">
+                                <span>体验西藏</span>
+                            </a>
+                </li>
+                <li>
+                        <a href="">
+                                <span>产品中心</span>
+                            </a>
+                </li>
+                <span class="hand-th"></span>
+            </ul>      
+            <div class="wid">
+                    
+                            <input class="put " type="text" placeholder="请输入你想搜索的内容">
+                            <div class="serch">
+                                <img  src="../image/home/head-search.png">
+                            </div> 
+                            <div class="sign">
+                                <span class="sign-btn">登陆</span>
+                                <div class="sign-hidden">
+                                    <span class="sign-lo">未登录</span>
+                                    <span class="sign-cancle">注销</span>
+                                </div>
+                            </div>                            
+            </div>
+        </div>  
+     </header>
+    <!-- 登录遮罩 -->
+    <div class="mask">
+            <div class="mask-logo">
+                 <img src="../image/home/header-logo.png">
+                 <span></span>
+            </div>
+             <div class="banner">
+                 <img src="../image/home/banner.jpg">
+             </div>
+             <!-- 登陆 -->
+             <div class="mask-loin">
+                     <div class="cancel">X</div>
+                 <section class="loin-head">
+                     <span>会员登陆</span>
+                     <span class="regi">立即注册></span>
+                 </section>
+                 <section class="loin-input"  data-msg="用户名不正确">
+                     <input type="text"  id="user" placeholder="请输入用户名">
+                 </section>
+                 <section class="loin-input"  data-msg="密码不正确">
+                         <input type="text" id="firPass"  placeholder="请输入密码">
+                     </section>
+                     <section class="handle">
+                         <input type="checkbox">
+                         <label for="">下次自动登录</label>
+                         <span>忘记账号密码?</span>
+                     </section>
+                     <section>
+                         <button class="btn entry">登陆</button>
+                         <button class="btn btnn">快速注册</button>
+                     </section>
+             </div>
+             <!-- 注册 -->
+             <div class="regis">
+                     <div class="cancel">X</div>
+                 <section class="loin-head">
+                     <span>会员注册</span>
+                     <span class="res-back">已有账号，立即登陆>></span>
+                 </section>
+                 <form class="myForm" action="javascript:;">
+                         <section class="form-item" data-msg="账号格式不匹配(只能包含字母、数字、下划线且字符个数不少于5个不多于10个)">
+                             <input id="username" type="text" placeholder="请输入账号">
+                         </section>
+                         <section class="form-item" data-msg="密码格式不匹配（只能包含字母、数字、下划线，且不低于6个字符）">
+                             <input id="firPassword" type="password" placeholder="请输入密码">
+                         </section>
+                         <section class="form-item" data-msg="两次密码输入不一样">
+                             <input id="secPassword" type="password" placeholder="请再次输入密码">
+                         </section>
+                         <section class="form-item" data-msg="邮箱格式不正确">
+                             <input id="email" type="email" placeholder="请输入邮箱">
+                         </section>
+                         <section class="form-item" data-msg="手机号码不正确">
+                             <input id="tel" type="tel" placeholder="请输入手机号码">
+                         </section>
+                         <section class="verification-code-box form-item" data-msg="验证码不正确">                       
+                             <input id="verificationCode" type="text" placeholder="请输入验证码">
+                             <span class="change">换一张</span>
+                             <span class="code"></span>
+                             
+                         </section>
+                         <button type="button" class="btn regi-btn">立即注册</button>
+                     </form>
+             </div>
+         </div>
+    <!-- 回到顶部 -->
+    <div class="topp">
+        <i class="fa fa-arrow-circle-up" aria-hidden="true"></i>
+    </div>
+    <main>
+        <p>攻略·
+            <span>全部</span>
+        </p>
+        <section class="all">
+        </section>
+    </main>
+    <footer>
+        <div class="ending">
+            <ul class="end-ul">
+            </ul>
+            <div class="end-part">
+            </div>
+            <div class="end-up">
+                    中国移动通信集团西藏有限公司
+                    <img src="../image/home/beian.png" alt="">
+                    <a href="">藏公网安备 54010202000082号</a>
+            </div> 
+        </div>
+    </footer>
+    <script src="../js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="../plugin/LHYAlertView.js"></script>
+    <script src="../js/strategy.js"></script>
+    <script src="../js/function.js"></script>
+    <script src="../js/index.js"></script>
+</body>
+</html>

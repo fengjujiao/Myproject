@@ -1,0 +1,69 @@
+{
+    "classify": "其他设备",
+    "contents": [
+        {
+            "name": "魅族熊猫磁吸出风口支架",
+            "des": "高度兼容 安稳放置",
+            "color": ["黑色"],
+            "price": "49.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/0C/CnQOjViX1x-AdYHaAAKUWbEvTpo772.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/0C/CnQOjViX1yCAfkiiAAMs02M-mzI761.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/2A/CnQOjVi36PSAHIpeAAC1oAKOheg466.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/01/0C/CnQOjViX1x-AdYHaAAKUWbEvTpo772.png@240x240.png"
+            ]
+        },
+        {
+            "name": "魅族路由器 极速版",
+            "des": "天生不凡 快狠稳",
+            "color": ["白色"],
+            "price": "99.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1465698264-58364.jpg@680x680.jpg",
+                "//storeimg.meizu.com/product/1465698319-94803.jpg@680x680.jpg",
+                "//storeimg.meizu.com/product/1465698341-66129.jpg@680x680.jpg",
+                "//storeimg.meizu.com/product/1465698366-64885.jpg@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1465698264-58364.jpg@240x240.png"
+            ]
+        },
+        {
+            "name": "魅族智能路由器",
+            "des": "简单便携 即插即用",
+            "color": ["白色"],
+            "price": "49.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1449647645-31973.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449647693-41477.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449648016-45642.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449648059-99660.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1449647645-31973.png@240x240.png"
+            ]
+        },
+        {
+            "name": "魅族盒子 一键找回遥控器",
+            "des": "海量内容 同享美妙",
+            "color": ["白色", "黑色"],
+            "price": "199.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/9C/Cix_s1gYZWCAc1jqAAGoLQ8h81w741.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/DB/CnQOjVhjXpyAbvBWAAKGY9iOGmI982.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/DB/CnQOjVhjXp2AOS72AADQMuh04g0733.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/DC/Cix_s1hjXp6AC0MSAAFBSQ2rIa8790.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/9C/Cix_s1gYZWCAc1jqAAGoLQ8h81w741.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/00/9B/CnQOjVgYZV6Af6VlAADvhkEyt98979.png@240x240.jpg"
+            ]
+        }
+    ]
+}

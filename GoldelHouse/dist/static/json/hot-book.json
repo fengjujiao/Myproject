@@ -1,0 +1,54 @@
+[
+    {
+        "name": "响应式Web设计:HTML5和CSS3实战",
+        "describe": "移动互联网时代到来了。《响应式Web设计：HTML5和CSS3实战》将当前Web设计中热门的响应式设计技术与HTML5和CSS3结合起来，为读者全面深入地讲解了针对各种屏幕大小设计和开发现代网站的各种技术。不仅讨论了媒体查询、流式布局、相对字体、响应式媒体，更将HTML5和CSS3的相关知识点一并讲解，是学习最新Web设计技术不可多得的佳作。",
+        "author": "Ben Frain",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/516GI3E8NtL._SX396_BO1,204,203,200_.jpg",
+        "price": 40.70,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    },
+    {
+        "name": "图解HTTP",
+        "describe": "《图解HTTP》对互联网基盘——HTTP协议进行了全面系统的介绍。作者由HTTP协议的发展历史娓娓道来，严谨细致地剖析了HTTP协议的结构，列举诸多常见通信场景及实战案例，最后延伸到Web安全、技术动向等方面。《图解HTTP》的特色为在讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。读者可通过《图解HTTP》快速了解并掌握HTTP协议的基础，前端工程师分析抓包数据，后端工程师实现REST API、实现自己的HTTP服务器等过程中所需的HTTP相关知识点本书均有介绍。",
+        "author": "上野宣",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/41rIT5V1tiL._SX381_BO1,204,203,200_.jpg",
+        "price": 39.90,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    },
+    {
+        "name": "HTML+CSS网页设计与布局从入门到精通",
+        "describe": "《HTML+CSS网页设计与布局从入门到精通》紧密围绕网页设计师在制作网页过程中的实际需要和应该掌握的技术，全面介绍了使用HTML和CSS进行网页设计和制作的各方面内容和技巧。 《HTML+CSS网页设计与布局从入门到精通》共分4个部分21章和两个附录，包括网页设计基础、HTML基础、CSS基础、CSS高级技术和CSS布局技术等内容。全书遵循Web标准，强调“表现”与“内容”的分离，抛弃了那些过时的HTML标记和属性，从更规范的角度全面、系统地介绍了网页设计制作方法与技巧。附录收录了网站发布与管理的知识和160个应用CSS时出现频度较高的英文单词及其中文解释。书中给出了大量详细的案例，并对案例进行分析，便于读者在理解的基础上，直接修改后使用。《HTML+CSS网页设计与布局从入门到精通》作者具备扎实的实践功底，行文细腻，对每一个技术细节以及每一个实际工作中可能遇到的难点和错误都进行了详细的说明，并给出了解决方案。",
+        "author": "温谦",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/51F-nb0%2B9xL._SX330_BO1,204,203,200_.jpg",
+        "price": 32.20,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    },
+    {
+        "name": "HTML与CSS入门经典(第8版)",
+        "describe": "《HTML与CSS入门经典(第8版)》是畅销图书《HTML与CSS入门经典》的最新版，和过去的版本相同，本书仍然采用直观、循序渐进的方法来为读者讲解使用HTML与CSS创建并发布网页的过程，以方便读者掌握。《HTML与CSS入门经典(第8版)》总共分为24章和1个附录，其涵盖的内容有理解Web的工作方式，如何发布Web内容，理解HTML与XHTML的关系，理解层叠样式单(CSS)，使用文本块和列表，使用字体，使用表格显示信息，使用外部和内部链接，使用颜色，创建用于Web上的对象，在网站中使用对象和多媒体，使用框架，使用边距、填充、对齐和浮动，理解CSS盒子模型和定位，使用CSS进一步控制列表和控制导航，使用鼠标操作修改文本显示，创建固定或者流动的布局，创建打印友好的网页，理解动态网站，使用基于Web的表单，组织和管理网站，以及帮助人们找到你的网站等内容。附录还提供了完整的XHTML1.1与CSS2快速参考。",
+        "author": "Julie C. Meloni Michael Morrison",
+        "cover": "https://images-cn.ssl-images-amazon.com/images/I/51iZUSz%2B0iL._SX350_BO1,204,203,200_.jpg",
+        "price": 48.80,
+        "page": 730,
+        "bookNum": 9787115275790,
+        "date": "2006年",
+        "info1": "本书从最早期Netscape浏览器中的JavaScript开始讲起，直到当前它对XML和Web服务的具体支持，内容主要涉及JavaScript的语言特点、JavaScript与浏览器的交互、更高级的JavaScript技巧，以及与在Web应用程序中部署JavaScript解决方案有关的问题，如错误处理、调试、安全性、优化/混淆化、XML和Web服务，最后介绍应用所有这些知识来创建动态用户界面。本书适合有一定编程经验的开发人员阅读，也可作为高校相关专业课程的教材",
+        "info2": "本书是JavaScript 超级畅销书的最新版。ECMAScript 5 和HTML5 在标准之争中双双胜出，使大量专有实现和客户端扩展正式进入规范，同时也为JavaScript 增添了很多适应未来发展的新特性。本书这一版除增加5 章全新内容外，其他章节也有较大幅度的增补和修订，新内容篇幅约占三分之一。全书从JavaScript 语言实现的各个组成部分——语言核心、DOM、BOM、事件模型讲起，深入浅出地探讨了面向对象编程、Ajax 与Comet 服务器端通信，HTML5 表单、媒体、Canvas（包括WebGL）及Web Workers、地理定位、跨文档传递消息、客户端存储（包括IndexedDB）等新API，还介绍了离线应用和与维护、性能、部署相关的最佳开发实践。本书附录展望了未来的API 和ECMAScript Harmony 规范。",
+        "authorInfo": "Nicholas C. Zakas（尼古拉斯•泽卡斯）世界顶级Web技术专家，现为雅虎公司界面呈现架构师，负责My Yahoo!和雅虎首页等大访问量站点的设计。尼古拉斯拥有丰富的Web开发和界面设计经验，曾经参与许多世界级大公司的Web解决方案开发。他还是High Performance JavaScript一书的作者，并与他人合作撰写了Professional Ajax和Even Faster Web Sites。尼古拉斯拥有梅里马克学院计算机科学学士学位和埃迪柯特学院的MBA学位。他的个人网站是www.nczonline.net，他的Twitter别名是@slicknet。"
+    }
+]

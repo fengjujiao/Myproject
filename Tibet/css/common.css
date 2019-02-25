@@ -1,0 +1,468 @@
+@charset "UTF-8";
+
+* { margin: 0; padding: 0; }
+html, body { width: 100%; height: 100%; }
+a   { text-decoration: none; }
+ul, li  { list-style: none; }
+input, button, textarea { outline: none; border: none;}
+.fl { float: left;}
+.fr { float: right;}
+.clearFix { zoom: 1; }
+.clearFix:after { content: ''; display: block; height: 0; visibility: hidden; clear: both; }
+.flex-row-col-cen { display: flex; display: -webkit-flex; justify-content: center; align-items: center; flex-wrap: wrap; }
+header{
+    width: 100%;
+    height: 80px;
+    min-width: 1100px;
+    background: rgb(220, 243, 156); 
+    text-align: center;
+}
+.clear-float{
+    width: 1340px;
+    height: 80px;
+}
+/* 导航栏 */
+.logo{
+    float: left;
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 70px;
+}
+.logo img{
+    margin: 15px auto;
+}
+.navi{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    float: left;
+    line-height: 80px;
+    font-size: 0;
+    position: relative;
+}
+.navi>li{
+    display: inline-block;
+    cursor: pointer;
+    height: 100%;  
+    font-size: 22px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.navi li span{
+    color: #5C5C5C;
+}
+.dxx{
+    display: none;
+}
+.hand{
+    position: relative;
+    
+}
+.wid{
+    width: 17%;
+    min-width: 180px;
+    height: 100%;
+    float: right;
+    margin-right: 15px;
+    position: relative;
+}
+.hid{
+    left:0;
+    width: 100%;
+    display: none;
+    position: absolute;
+    line-height: 40px;
+    font-size: 16px;
+    text-align: left;
+    background: #fff;
+    z-index: 10;
+    transition: all 0.25s linear;
+}
+.hid li{
+    margin-left: 20px;
+    color:#888D93;
+}
+.hid li a{
+    color:#888D93;
+}
+/* hover效果 */
+.hand:hover{
+    background: #24C5B3;;
+}
+.hand:hover .hid{
+    display: block;
+}
+.hand:hover .dxx{
+    display: inline-block;
+}
+.hand:hover .dxxs{
+    display: none;
+}
+/* .hand:hover .hid{
+    display: block;
+} */
+.hid li a:hover{
+    color: aqua;
+}
+/* 搜索框 */
+ .put{ 
+     width:0;
+    float:left;
+    font-size: 13px;
+    height: 30px;
+    line-height: 30px;
+    color: #999;
+    text-indent: 5px;
+    margin-top: 23px;
+    border-radius: 4px;
+    border: 1px solid #999;
+    opacity: 0;
+    box-shadow: inherit;
+    transition: all .25s linear;
+}
+.put:focus{
+    transition: all .6s linear;
+    border: 1px solid #24c5b3;
+    box-shadow: 0 0 7px #3bc0b0;
+}
+.sign{
+    cursor: pointer;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+}
+.serch{
+    cursor: pointer;
+    display: block;
+    border-right: 1px solid #CCCCCC;
+    padding-right: 15px;
+    width: 33px;
+    height: auto;
+    position: absolute;
+    right: 79px;
+    top: 30px;
+}
+/* 导航栏的滑动 */
+.hand-th{
+    display: block;
+    width: 44px;
+    height: 2px;
+    background: #24C5B3;
+    position: absolute;
+    left:20px;
+    top:56px;
+    transition: all .25s linear;
+}
+.sign{
+    position: relative;
+    transition: all .25s linear;
+}
+.sign-hidden{
+    position: absolute;
+    display: block;
+    width: 110px;
+    height: 52px;
+    border: 1px solid rgb(141, 103, 212);
+    z-index: 12;
+    top: 53px;
+    left: -40px;
+    opacity: 0;
+    font-size: 13px;
+    line-height: 28px;
+    background: #ffffff;
+}
+.sign-cancle{
+    display: none;
+    color: red;
+    border-top: 1px solid rgb(141, 103, 212);
+}
+.sign-lo{
+    display: block;
+    color: green;
+}
+.sign:hover .sign-hidden{
+    opacity: 1;
+    
+}
+/* 登陆遮罩 */
+.mask{
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left:0;
+    top:0;
+    background-color:#84DEFC;
+    z-index: 15;
+}
+.banner{
+    position: absolute;
+    top:100px;
+    left:200px;
+}
+.mask-loin{
+    position: absolute;
+    width: 360px;
+    display: none;
+    left:70%;
+    background: #fff;
+    transform:translateX(-50%);
+    top:150px;
+    padding: 20px;
+}
+.hidden{
+    display: block;
+}
+.mask-loin section,.myForm section{
+    margin-bottom: 30px;
+}
+.mask-logo {
+    width: 100%;
+    margin-top: 10px;
+}
+.mask-logo span{
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    width: 170px;
+    color: rgb(172, 84, 231)
+}
+.loin-head{
+    font-size: 20px;
+    width: 100%;
+    margin: 0 auto;
+}
+.loin-head .regi{
+    cursor: pointer;
+    font-size: 14px;
+    float: right;
+    color: red;
+    line-height: 35px;
+}
+.loin-input,.form-item{
+    width: 100%;
+    height: 40px;
+}
+.loin-input input,.form-item input{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    transition: all .25s linear;
+}
+.form-item:after{
+    content: attr(data-msg);
+    font-size: 12px;
+    color: red;
+    letter-spacing: 2px;
+    /* 默认隐藏提示 */
+    display: none;
+}
+.myForm section:nth-child(1){
+    margin-bottom: 39px;
+}
+.form-item.error:after{
+    /* 异常显示提示 */
+    display: block;
+}
+.form-item input:hover{
+    border-color: green;
+}
+.handle{
+    font-size: 12px;
+}
+.handle span{
+    float: right;
+}
+.btn{
+    cursor: pointer;
+    width: 48%;
+    height: 40px;
+    background: #40C2F4;
+    cursor: pointer;
+    font-size: 18px;
+    letter-spacing: 3px;
+}
+.btnn{
+    float: right;
+    background: rgb(230, 61, 61);
+}
+.mask-hid{
+    display: none;
+}
+/* 注册 */
+.regis{
+    width: 360px;
+    padding: 20px;
+    display: none;
+    position: absolute;
+    background: #fff;
+    left:50%;
+    cursor: pointer;
+}
+.shoer{
+    display: block;
+}
+.res-back{
+    cursor: pointer;
+    font-size: 14px;
+    float: right;
+    color: rgb(26, 26, 245);
+    line-height: 35px;
+}
+.verification-code-box{
+    width: 100%;
+}
+.verification-code-box input{
+    width: 50%;
+}
+.verification-code-box .code{
+    width: 25%;
+    height: 100%;
+    background: linear-gradient(to right bottom, #ccc, brown);
+    float: right;
+    text-align: center;
+    line-height: 40px;
+    font-size: 16px;
+}
+.change{
+    float: right;
+    margin-left: 5px;
+    font-size: 12px;
+    line-height: 60px;
+}
+.regi-btn{
+    width: 100%;
+    height: 40px;
+    background: #40C2F4;
+    cursor: pointer;
+    font-size: 18px;
+    letter-spacing: 3px;
+    background: rgb(158, 217, 252);
+}
+.cancel{
+    position: absolute;
+    right:-5px;
+    top:-5px;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    background: #fff;
+    border-radius: 50%;
+    transition: all .25s linear;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.cancel:hover{
+    border: 1px solid #000;
+}
+/* 回到顶部 */
+.topp{
+    width: 65px;
+    height: 66px;
+    position: fixed;
+    right: 0px;
+    bottom: 50px;
+    z-index: 20;
+    display: none;
+    text-align: center;
+    line-height: 66px;
+}
+.topp .fa{
+    font-size: 60px;
+    color: rgb(179, 183, 185);
+    transition: all .25s linear;
+}
+.topp:hover .fa{
+    color: rgb(63, 231, 100);
+}
+/* 尾部 */
+.ending{
+    width: 100%;
+    background: #202930;
+    padding-bottom: 20px;
+}
+.end-ul{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.end-ul>li{
+    height: 200px;
+    float: left;
+}
+.end-ul li:nth-child(1) img{
+    width: 253px;
+    margin: 89px 10px;
+}
+.end-ul li:nth-child(2) img{
+    width: 115px;
+    height: 115px;
+    margin: 63px 40px;
+}
+.end-ul li:nth-child(3) img,.end-ul li:nth-child(5) img,.end-ul li:nth-child(7) img{
+    width: 2px;
+    height: 100%;
+    margin: 29px 60px;
+}
+.end-li{
+    overflow: hidden;
+    margin: 47px 37px;
+    color: #fff;
+}
+.end-li a{
+    color: #ADAEB0;
+    font-size: 12px;
+    line-height: 22px;
+    display: block;
+    letter-spacing: 1px;
+}
+.end-part{
+    width: 888px;
+    margin: 0 auto;
+    margin-top: 46px;
+    overflow: hidden;
+}
+.end-part span{
+    color: #fff;
+    line-height:42px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    float: left;
+}
+.end-part a{
+    margin-left: 50px;
+    float: left;
+}
+.end-up{
+    width: 100%;
+    margin: 25px 0 17px;
+    text-align: center;
+    color: #939393;
+    font-size: 12px;
+}
+.end-up a{
+    color: #939393;
+}
+.end-up img{
+    margin-left: 10px;
+    vertical-align: middle;
+}
+/* main部分 */
+main{
+    min-width: 1100px;
+}
+.attract{
+    margin: 0 auto;
+}
+.attract-img{
+    width: 100%;
+    height: 59px;
+    margin: 0 auto 50px;
+}
+.attract-img img{
+    width: 100%;
+    height: auto;
+}

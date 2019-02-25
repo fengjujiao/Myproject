@@ -1,0 +1,135 @@
+{
+    "classify": "生活周边",
+    "contents": [
+        {
+            "name": "魅蓝20寸旅行箱 酷MA萌定制版",
+            "des": "萌友为伴，为出行添点乐趣",
+            "color": ["黑色", "红色"],
+            "price": "599.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png@240x240.jpg",
+                "//openfile.meizu.com/group1/M00/03/49/Cgbj0FqwvJWAFb0PAAleBEBSg7E656.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅蓝 休闲旅行双肩包",
+            "des": "曲面一体式 多功能隔层 极简与线条之美",
+            "color": ["黑色", "灰色"],
+            "price": "169.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/BE/Cix_s1g7l-yANQsqAAJSWz441uE109.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/BE/CnQOjVg7l-yAGFhqAAGVxyv1O3k018.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/BE/CnQOjVg7l-yALghoAALMOHlwEJk345.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/00/BE/Cix_s1g7l-yANQsqAAJSWz441uE109.jpg@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAKnozAAVBTlzLU4U593.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "JORDAN&JUDY/佐敦朱迪 时尚化妆包",
+            "des": "时尚设计 超轻质感",
+            "color": ["粉色", "灰色"],
+            "price": "39.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JaAT5SoAAQcruhGbYQ353.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/A7/Cgbj0Fq93JeAAl4lAAZZrA1qRaM364.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JiASbYfAAca7iyqTFA868.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93MWAAgquAAkvZqJBeDE496.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JaAT5SoAAQcruhGbYQ353.jpg@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/03/A8/Cgbj0Fq93J2ALFB9AAOhLtgVxE8169.jpg@240x240.jpg"
+            ]
+        },
+        {
+            "name": "cabecade 经典飞行员偏光太阳镜 GT0008",
+            "des": "经典爆款  出行必备  偏光镜片",
+            "color": ["黑色"],
+            "price": "49.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWABckeAAFftlAHFk4094.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWAWZrNAAJl94xdLUU030.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/71/Cgbj0FtFfUWAAbppAAGKZS6w3Ao210.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/37/Cgbj0FuFH6qAWy8YAAIMBukCUmk489.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWABckeAAFftlAHFk4094.png@240x240.png"
+            ]
+        },
+        {
+            "name": "cabecade 磨砂防蓝光手机电脑护目镜  T5005",
+            "des": "百搭脸型  金属镜腿 40%蓝光过滤",
+            "color": ["磨砂黑"],
+            "price": "49.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifGAaX-iAAFnixqaJVM736.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifWAAhbwAAEsQeehE9E777.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/F8/Cgbj0FtyifGAbaPJAAE_erMlkls803.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifGAaX-iAAFnixqaJVM736.png@240x240.png"
+            ]
+        },
+        {
+            "name": "乐基因 Nalgene 随手杯 750ml",
+            "des": "美国原装进口学生户外运动水壶",
+            "color": ["冰川蓝", "嫩绿色", "甜菜红"],
+            "price": "116.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-LjOATkwyAAL6jue7HwA707.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/C0/Cgbj0Vq-KriAPEeSAATnUI1uGcE222.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B7/Cgbj0Fq-LjSAW3aJAAL6j-qAeNA549.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B7/Cgbj0Fq-LjSAW3aJAAL6j-qAeNA549.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-LjOATkwyAAL6jue7HwA707.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-Ll2AdEARAALydsaegYs837.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/03/B2/Cgbj0Fq-KvOAK2O9AAOpvrVc8nQ709.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Corkcicle酷仕客Waterman系列不锈钢咖啡杯",
+            "des": "居家办公 网红保温保冷咖啡杯",
+            "color": ["哑光黑", "巴黎绿"],
+            "price": "278.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-qAOw4JAARscGx6atg976.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-uAAzQCAAOyOGLMHuE928.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/C1/Cgbj0Fow0-uAblRWAAPw4H6MwcI415.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-qAOw4JAARscGx6atg976.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/02/C1/Cgbj0Fow0-6AE7brAARiezOpq4g258.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Corkcicle酷仕客Waterman系列不锈钢保温杯",
+            "des": "德国红点奖设计大奖 进口PP材质",
+            "color": ["哑光黑", "丝缎白", "珊瑚红"],
+            "price": "218.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7GAUe-MAAQg-m2VW9M765.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/B8/Cgbj0Voma7GAfBRIAALidbcSph8900.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/B8/Cgbj0Voma7GAFQ3gAAUlSqYBv-Y387.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7aAKfs-AAij8tR9PYs407.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/02/B9/Cgbj0VombAqAdmcUAANhhs_07Mk732.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma9yAMz2QAAFz_SfRC3s211.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7GAUe-MAAQg-m2VW9M765.png@240x240.jpg"
+            ]
+        }
+    ]
+}

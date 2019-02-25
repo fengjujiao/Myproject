@@ -1,0 +1,1066 @@
+{
+    "adv":[
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/08/16/d41edab1-9bb2-4451-9b3b-59f5c02d9edb.jpg",
+            "p":"超级福利站",
+            "p2":"新品手机  爆款配件"
+        },
+        {
+            "img":"https://openfile.meizu.com/group1/M00/06/B6/Cgbj0Fu8GACAZypgAAB5GZPSDO0688.jpg",
+            "p":"M码通道",
+            "p2":"欢迎使用M码购买"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/08/16/2f9408a7-fa03-43a9-bc9a-3358c4792c40.jpg",
+            "p":"一周新品",
+            "p2":"每周上新 万里挑一"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/08/16/a1cc084e-294f-415c-803a-94dc3a1aefb0.jpg",
+            "p":"APP送新机",
+            "p2":"狂送10台魅族 16th"
+        }
+    ],
+    "phone":[
+        {
+            "name": "魅族 16th",
+            "des": "骁龙845  屏幕下指纹",
+            "color": ["静夜黑", "远山白", "激光蓝"],
+            "spec": ["6 + 64GB", "6 + 128GB", "8 + 128GB"],
+            "price": "2998.00",
+            "size": "6.0",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/F1/Cgbj0VtqgnWADjmlAAipoSE4bZM493.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/E1/Cgbj0Ftqgm2AQo8kAALoIW3dU5E207.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/E2/Cgbj0FtqgnSAEr3VAARgym8YDgE000.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/F1/Cgbj0VtqgnSAO5g5AAIM3cZJ03Y881.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/05/E2/Cgbj0FtqgnmAFgJPAAhgnScaoFg724.png",
+                "https://openfile.meizu.com/group1/M00/05/F1/Cgbj0VtqgmyADfzUAAdk_Uz-jKk371.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/9B/Cgbj0FujRsOADooMAAbehLx6_Co899.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/05/F1/Cgbj0VtqgnSAO5g5AAIM3cZJ03Y881.png120x120.jpg"
+            ]
+        },
+        {
+            "name": "魅族 16 X",
+            "des": "骁龙710  轻奢旗舰",
+            "color": ["汝窑白", "晨曦金", "研墨黑", "云山白", "烟晶紫"],
+            "spec": ["6 + 64GB", "6 + 128GB"],
+            "price": "2398.00",
+            "size": "6.0",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/CC/Cgbj0VvINLWAIlE-AAiaWpiehPA078.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/9A/Cgbj0VuhuQuAJDKmAADzJgGebvw964.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/9A/Cgbj0VuhuQuAf28UAAY_xQMGodA166.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/8B/Cgbj0FuhuQuAT6roAAI6irYzLPQ372.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/06/99/Cgbj0FujMx6AWJeDAAhQtiLaCtA614.png",
+                "https://openfile.meizu.com/group1/M00/06/99/Cgbj0FujMx6AWJeDAAhQtiLaCtA614.png",
+                "https://openfile.meizu.com/group1/M00/06/99/Cgbj0FujMx6AWJeDAAhQtiLaCtA614.png",
+                "https://openfile.meizu.com/group1/M00/06/99/Cgbj0FujMx6AWJeDAAhQtiLaCtA614.png"
+            ]
+        },
+        {
+            "name": "魅族 X8",
+            "des": "准旗舰游戏拍照手机",
+            "color": ["亮黑", "玉白", "幻蓝"],
+            "spec": ["4 + 64GB", "6 + 64GB", "6 + 128GB"],
+            "price": "1598.00",
+            "size": "6.2",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSK-ABWIRAAm412yc0Ac039.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSLGAE44DAAeLveNy2X4743.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/B7/Cgbj0VusSKmAGC6DAAaMxdXOpAY680.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSKiAW4z7AALHc8pivJY472.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSK2AQZgiAAlFKHoO-co889.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/A8/Cgbj0FusSJyACGwcAAg0epdui5o951.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/A9/Cgbj0FusSL6AS8w5AAhRPgc1bQE955.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅族 V8 高配版",
+            "des": "1200万+500万高清双摄",
+            "color": ["雅金", "曜黑", "灰蓝", "烟紫"],
+            "spec": ["4 + 64GB"],
+            "price": "1098.00",
+            "size": "5.7",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoBmABjqyAAMvon37aMI421.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/C4/Cgbj0FvRoAaAb002AAitd1zBk7c539.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBKAaK3HAAglBrZT3hw222.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoA2AV-EqAAOBq-nt7h4808.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMOAFzUFAARRWnHvM84529.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/AC/Cgbj0VujaMyAYB76AATj19tgy08068.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/C5/Cgbj0FvRoBuAPurkAAKeRCbcKvM061.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/D5/Cgbj0VvRoByAY7m7AAKnNypBK54141.png@240x240.jpg",
+                ""
+            ]
+        },
+        {
+            "name": "魅族 15",
+            "des": "雕刻时光，重塑经典",
+            "color": ["雅金","研墨", "黛蓝", "汝窑白"],
+            "spec": ["4 + 64GB", "4 + 128GB"],
+            "price": "1998.00",
+            "size": "5.46",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/04/1A/Cgbj0VrcblGASw1bAAw5XLlyeCA103.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/0B/Cgbj0Frcbk-AeEorAAXY_9lHYR4332.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/19/Cgbj0VrcbkiAaSirAAXItYvB5Xo133.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/19/Cgbj0Vrcbk6AYrRNAAHbf4qjn34636.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/04/0B/Cgbj0FrcblSAGHrPAAvT_qZZSA0427.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/04/1A/Cgbj0VrcbmKALZ1BAA0NVqTeXpU942.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/04/0C/Cgbj0FrcbnGANGRlAAzqchlSKjQ833.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/04/0B/Cgbj0FrcbkeAW38NAAjvsXhhyFE066.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅蓝 E3",
+            "des": "骁龙636处理器 全系6G大运存",
+            "color": ["香槟金", "曜石黑", "丹青"],
+            "spec": ["6 + 64GB"],
+            "price": "1799.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/BB/Cgbj0Vq9-m-AS4eOAAsfTHA5OuM770.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/61/Cgbj0VqxxsaAaVBUAAUyWvzuCfw410.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/52/Cgbj0Fqxxr2ARnQXAAfnGvFvS6U691.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/60/Cgbj0VqxxsCAOEVYAAGq8ZmRrYY127.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/03/BB/Cgbj0Vq9-m2AJr_PAAp1B7CA5GY057.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/03/BC/Cgbj0Vq9-oeARs_XAALvUdl5qpo302.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/03/AD/Cgbj0Fq9-nyADD66AANcClukd4A241.png@240x240.jpg"
+            ]
+        }
+    ],
+    "product":[
+        {
+            "h3":"魅族声学",
+            "wraper":[
+                {
+                    "type": "蓝牙/音频接口",
+                    "name": "魅族蓝牙小音箱",
+                    "des": "好音感 直达心灵",
+                    "color": ["深空灰", "皓月白"],
+                    "price": "99.00",
+                    "price2":"199",
+                    "stock": false,
+                    "bluetooth": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KSAMlqTAAdurCvtioI146.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/01/1C/CnQOjVij7KKAb5ZRAAXB66rgoPs717.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KKAOLQiAAR1Ab8yZkI516.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/01/1C/CnQOjVij7KKAcaEyAAHSmZjjG5E101.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KeAdy0cAAbboUvsAC4250.png@240x240.png",
+                        "https://openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KSAMlqTAAdurCvtioI146.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "有线耳机",
+                    "microphone": true,
+                    "name": "魅族 EP2X 耳机",
+                    "des": "契合声音的流动之美",
+                    "color": ["珍珠黑", "皓月白"],
+                    "price": "69.00",
+                    "price2":"109",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHCAXNI5AAFhUsyWVeM680.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHGAB-DXAADPHff_mNQ945.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHKAKfk3AADagmucX-w385.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcVpeAOmoaAAGh-ubroNg891.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "有线耳机",
+                    "microphone": true,
+                    "name": "魅族 EP-31 耳机",
+                    "des": "舒适均衡 精致优雅",
+                    "color": ["金色", "银色"],
+                    "price": "99.00",
+                    "price2":"189",
+                    "stock": true,
+                    "img": [
+                        "//storeimg.meizu.com/product/1449643778-41533.png@680x680.jpg",
+                        "//storeimg.meizu.com/product/1449643978-63020.png@680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//storeimg.meizu.com/product/1449643778-41533.png@240x240.png",
+                        "https://openfile.meizu.com/group1/M00/06/20/Cgbj0Ft-WkOAAhCKAAFqcNe6c3M482.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "有线耳机",
+                    "microphone": true,
+                    "name": "ME20入耳式耳机",
+                    "des": "享受 不绝于耳",
+                    "color": ["珍珠黑", "皓月白"],
+                    "price": "199.00",
+                    "price2":"299",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCuAAjKRAADLUUdnwjk279.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCiAKARJAAFV_VSDp_s040.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "https://openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/01/D5/Cgbj0VmRZCiAKwA3AADYrtiPJlQ156.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "蓝牙耳机",
+                    "microphone": true,
+                    "name": "POP 真无线蓝牙耳机",
+                    "des": "六期免息 双无线 零设限",
+                    "color": ["皓月白"],
+                    "price": "499.00",
+                    "price2":"699",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/04/5B/Cgbj0Fr6g3mAMv7iAAEPK93D2ss728.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/05/B2/Cgbj0Ftf0VWAFEcfAARTZSRrkgc297.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/05/C1/Cgbj0Vtf0VaAaQBxAAn1xRRXqdw560.jpg680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png@240x240.png"
+                    ]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "有线耳机",
+                    "microphone": false,
+                    "name": "魅族 Flow Bass 三单元耳机",
+                    "des": "延续经典，重赋新声",
+                    "color": ["极光灰"],
+                    "price": "499.00",
+                    "price2":"599",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqU2APGluAAG3aLo__JM745.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqUmAFYETAAFa6N_vvyg768.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/ED/Cgbj0FpeqUmAffAJAAEOvEu79dA449.png680x680.jpg"
+                    ],
+                    "colorImg": ["//openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png@240x240.png"]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "有线耳机",
+                    "microphone": false,
+                    "name": "魅族 LIVE 四单元动铁耳机",
+                    "des": "享12期免息",
+                    "color": ["银色"],
+                    "price": "1299.00",
+                    "price2":"1350",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/FD/Cgbj0VpeqaKAHV5ZAAPL0xdfesY948.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKANO8gAAOof9DmMiY687.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/F0/Cgbj0FpeqaeAVOpbAAMSIlpRyo4296.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@240x240.png"
+                    ]
+                },
+                {
+                    "wear": "入耳式",
+                    "type": "有线耳机",
+                    "microphone": false,
+                    "name": "魅族 LIVE 四单元动铁耳机15周年限定版",
+                    "des": "浮光掠影 打造科幻般的透镜屏显",
+                    "color": ["枪色"],
+                    "price": "1599.00",
+                    "price2":"1800",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/06/98/Cgbj0FujABGAaEBFAARRnqv1i4M670.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/A7/Cgbj0VujAAyAZA--AANmVwbwjHU122.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/A7/Cgbj0VujAAyALRZpAAP2fhZkuQs316.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/98/Cgbj0FujAAyAasWPAAbxeXTRTmk086.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "https://openfile.meizu.com/group1/M00/06/98/Cgbj0FujABGAaEBFAARRnqv1i4M670.png@240x240.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "h3":"智能配件",
+            "wraper":[
+                {
+                    "name": "三星Gear Fit 手环",
+                    "des": "人气商品 畅销明星款",
+                    "color": ["黑色", "红色"],
+                    "price": "1499.00",
+                    "price2":"1599",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QFeAZ7GXAANZcdLRBUk293.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFiAanbfAAIS0xj9ltE851.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QD6AeFhGAANqZO2Aimw609.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "猎豹移动小豹ai翻译棒便携语音翻译",
+                    "des": "一键翻译，灵活方便",
+                    "color": ["黑色"],
+                    "price": "299.00",
+                    "price2":"399",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTOAf82xAAJAcMkrsAs736.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTeAdzsKAANgWREQY9w835.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTaAZX0gAAp50cEtB4Y624.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "魅族手环",
+                    "des": "腕间流动的心率专家",
+                    "color": ["黑色"],
+                    "price": "169.00",
+                    "price2":"199",
+                    "stock": true,
+                    "compatible": "Android/iOS",
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAQPDGAAPhPu3QlRw570.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAE13JAAK1qX5uOUc838.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFvmAKqehAAEitg7s_D0643.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "Misfit Shine2智能手环 定制版",
+                    "des": "彩色LED 无需充电 魅族定制版",
+                    "color": ["玫瑰金"],
+                    "price": "799.00",
+                    "price2":"899",
+                    "stock": false,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyADceJAAKQd4GC3LI459.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyAfdELAAPbqeWnrug391.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKK-AcjyTAAcArYn8bXg075.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "三星Gear Fit 手环",
+                    "des": "人气商品 畅销明星款",
+                    "color": ["黑色", "红色"],
+                    "price": "1499.00",
+                    "price2":"1990",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QFeAZ7GXAANZcdLRBUk293.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFiAanbfAAIS0xj9ltE851.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QD6AeFhGAANqZO2Aimw609.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "猎豹移动小豹ai翻译棒便携语音翻译",
+                    "des": "一键翻译，灵活方便",
+                    "color": ["黑色"],
+                    "price": "299.00",
+                    "price2":"599",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTOAf82xAAJAcMkrsAs736.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTeAdzsKAANgWREQY9w835.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTaAZX0gAAp50cEtB4Y624.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "魅族手环",
+                    "des": "腕间流动的心率专家",
+                    "color": ["黑色"],
+                    "price": "169.00",
+                    "price2":"499",
+                    "stock": true,
+                    "compatible": "Android/iOS",
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAQPDGAAPhPu3QlRw570.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAE13JAAK1qX5uOUc838.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFvmAKqehAAEitg7s_D0643.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "Misfit Shine2智能手环 定制版",
+                    "des": "彩色LED 无需充电 魅族定制版",
+                    "color": ["玫瑰金"],
+                    "price": "799.00",
+                    "price2":"899",
+                    "stock": false,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyADceJAAKQd4GC3LI459.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyAfdELAAPbqeWnrug391.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKK-AcjyTAAcArYn8bXg075.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png@240x240.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "h3":"生活周边",
+            "wraper":[
+                {
+                    "name": "魅蓝20寸旅行箱 酷MA萌定制版",
+                    "des": "萌友为伴，为出行添点乐趣",
+                    "color": ["黑色", "红色"],
+                    "price": "599.00",
+                    "price2":"799",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png@240x240.jpg",
+                        "//openfile.meizu.com/group1/M00/03/49/Cgbj0FqwvJWAFb0PAAleBEBSg7E656.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "魅蓝 休闲旅行双肩包",
+                    "des": "曲面一体式 多功能隔层 极简与线条之美",
+                    "color": ["黑色", "灰色"],
+                    "price": "169.00",
+                    "price2":"269",
+                    "stock": false,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/00/BE/Cix_s1g7l-yANQsqAAJSWz441uE109.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/BE/CnQOjVg7l-yAGFhqAAGVxyv1O3k018.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/00/BE/CnQOjVg7l-yALghoAALMOHlwEJk345.jpg680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "https://openfile.meizu.com/group1/M00/00/BE/Cix_s1g7l-yANQsqAAJSWz441uE109.jpg@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAKnozAAVBTlzLU4U593.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "JORDAN&JUDY/佐敦朱迪 时尚化妆包",
+                    "des": "时尚设计 超轻质感",
+                    "color": ["粉色", "灰色"],
+                    "price": "39.00",
+                    "price2":"99",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JaAT5SoAAQcruhGbYQ353.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/03/A7/Cgbj0Fq93JeAAl4lAAZZrA1qRaM364.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JiASbYfAAca7iyqTFA868.jpg680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93MWAAgquAAkvZqJBeDE496.jpg680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "https://openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JaAT5SoAAQcruhGbYQ353.jpg@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/03/A8/Cgbj0Fq93J2ALFB9AAOhLtgVxE8169.jpg@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "cabecade 经典飞行员偏光太阳镜 GT0008",
+                    "des": "经典爆款  出行必备  偏光镜片",
+                    "color": ["黑色"],
+                    "price": "49.00",
+                    "price2":"89",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWABckeAAFftlAHFk4094.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWAWZrNAAJl94xdLUU030.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/05/71/Cgbj0FtFfUWAAbppAAGKZS6w3Ao210.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/37/Cgbj0FuFH6qAWy8YAAIMBukCUmk489.jpg680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWABckeAAFftlAHFk4094.png@240x240.png"
+                    ]
+                },
+                {
+                    "name": "cabecade 磨砂防蓝光手机电脑护目镜  T5005",
+                    "des": "百搭脸型  金属镜腿 40%蓝光过滤",
+                    "color": ["磨砂黑"],
+                    "price": "49.00",
+                    "price2":"69",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifGAaX-iAAFnixqaJVM736.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifWAAhbwAAEsQeehE9E777.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/05/F8/Cgbj0FtyifGAbaPJAAE_erMlkls803.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifGAaX-iAAFnixqaJVM736.png@240x240.png"
+                    ]
+                },
+                {
+                    "name": "乐基因 Nalgene 随手杯 750ml",
+                    "des": "美国原装进口学生户外运动水壶",
+                    "color": ["冰川蓝", "嫩绿色", "甜菜红"],
+                    "price": "116.00",
+                    "price2":"229",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-LjOATkwyAAL6jue7HwA707.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/03/C0/Cgbj0Vq-KriAPEeSAATnUI1uGcE222.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/03/B7/Cgbj0Fq-LjSAW3aJAAL6j-qAeNA549.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/03/B7/Cgbj0Fq-LjSAW3aJAAL6j-qAeNA549.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-LjOATkwyAAL6jue7HwA707.png@240x240.png",
+                        "https://openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-Ll2AdEARAALydsaegYs837.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/03/B2/Cgbj0Fq-KvOAK2O9AAOpvrVc8nQ709.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "Corkcicle酷仕客Waterman系列不锈钢咖啡杯",
+                    "des": "居家办公 网红保温保冷咖啡杯",
+                    "color": ["哑光黑", "巴黎绿"],
+                    "price": "278.00",
+                    "price2":"290",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-qAOw4JAARscGx6atg976.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-uAAzQCAAOyOGLMHuE928.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/C1/Cgbj0Fow0-uAblRWAAPw4H6MwcI415.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-qAOw4JAARscGx6atg976.png@240x240.png",
+                        "https://openfile.meizu.com/group1/M00/02/C1/Cgbj0Fow0-6AE7brAARiezOpq4g258.png@240x240.jpg"
+                    ]
+                },
+                {
+                    "name": "Corkcicle酷仕客Waterman系列不锈钢保温杯",
+                    "des": "德国红点奖设计大奖 进口PP材质",
+                    "color": ["哑光黑", "丝缎白", "珊瑚红"],
+                    "price": "218.00",
+                    "price2":"350",
+                    "stock": true,
+                    "img": [
+                        "//openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7GAUe-MAAQg-m2VW9M765.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/B8/Cgbj0Voma7GAfBRIAALidbcSph8900.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/B8/Cgbj0Voma7GAFQ3gAAUlSqYBv-Y387.png680x680.jpg",
+                        "//openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7aAKfs-AAij8tR9PYs407.png680x680.jpg"
+                    ],
+                    "colorImg": [
+                        "https://openfile.meizu.com/group1/M00/02/B9/Cgbj0VombAqAdmcUAANhhs_07Mk732.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma9yAMz2QAAFz_SfRC3s211.png@240x240.jpg",
+                        "https://openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7GAUe-MAAQg-m2VW9M765.png@240x240.jpg"
+                    ]
+                }
+            ]
+        }
+    ],
+    "community":[
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/10/11/892edde1-4ae4-4520-bdb5-d98ee2ee9b58.jpg",
+            "img2":"https://img-res.mzres.com/img/download/uc/12/24/47/31/00/12244731/w100h100?t=1542423690",
+            "span":"马云",
+            "p":"轻奢旗舰魅族 16 X 惊艳亮相！经典汝窑白配色与小姐姐更搭哦~",
+            "p2":"魅族 16 X"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/10/11/33d3c8e2-ec6b-4e96-8cb8-d545232c414b.jpg",
+            "img2":"https://img-res.mzres.com/img/download/uc/17/51/79/02/00/17517902/w100h100?t=1542423690",
+            "span":"魅族家的配件君",
+            "p":"魅族声学旗舰产品推出限定版，全新设计搭配丰富套件，打造 15 周年诚意之作！",
+            "p2":"魅族 LIVE 15 周年限定版"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/09/05/87f4d101-a0e4-43fb-9fc2-243af4e0a5b3.jpg",
+            "img2":"https://img-res.mzres.com/img/download/uc/10/76/82/10/00/10768210/w100h100?t=1542423690",
+            "span":"木子李",
+            "p":"担心电池不够用？魅族 16th 与 16th Plus 续航实测对比告诉你！",
+            "p2":"魅族 16th Plus"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/09/05/20a80a30-5352-47b6-bf5e-9d65ea77b1da.jpg",
+            "img2":"https://img-res.mzres.com/img/download/uc/10/97/83/43/00/10978343/w100h100?t=1542423690",
+            "span":"小wish安静",
+            "p":"静谧之形，澎湃之声，试听魅族 Gravity 悬浮音响。",
+            "p2":"魅族 Gravity 悬浮音响"
+        }
+    ],
+    "video":[
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/10/29/66a6a875-bc3e-4ee7-aacd-b5401c0524b0.jpg",
+            "p":"魅族 Note8 产品视频"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/09/19/e3abac8f-dd5e-4c21-83a9-7dc71a3c5684.jpg",
+            "p":"魅族 Note8 产品视频"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/09/19/04662fc0-faa5-44e1-8711-6df03d4f7ce2.jpg",
+            "p":"魅族 Note8 产品视频"
+        },
+        {
+            "img":"https://fms.res.meizu.com/dms/2018/09/19/bfa68d68-65f1-4105-87e8-4d840c3b773c.jpg",
+            "p":"魅族 Note8 产品视频"
+        }
+    ],
+    "mediat":[
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族蓝牙",
+            "des": "用得惬意 听得尽兴",
+            "color": ["月光银", "星空黑"],
+            "price": " 499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/BC/Cgbj0Vl22XGAC6YIAAGautlHsjo741.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/AF/Cgbj0Fl22XCAOMr8AAFmhA2KyJw165.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/AF/Cgbj0Fl22XSAMBp7AAETFUHsUa0559.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/BD/Cgbj0Vl22XSAayx1AAIjInTkmEI443.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/01/AE/Cgbj0Fl22W2AJpEcAAG7IoqPYcI904.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/01/BC/Cgbj0Vl22XGAC6YIAAGautlHsjo741.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "魅族 EP2X 耳机",
+            "des": "契合声音的流动之美",
+            "color": ["珍珠黑", "皓月白"],
+            "price": "69.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHCAXNI5AAFhUsyWVeM680.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHGAB-DXAADPHff_mNQ945.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHKAKfk3AADagmucX-w385.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcVpeAOmoaAAGh-ubroNg891.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "魅族 EP-31 耳机",
+            "des": "舒适均衡 精致优雅",
+            "color": ["金色", "银色"],
+            "price": "99.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1449643778-41533.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449643978-63020.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1449643778-41533.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/20/Cgbj0Ft-WkOAAhCKAAFqcNe6c3M482.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "ME20入耳式耳机",
+            "des": "享受 不绝于耳",
+            "color": ["珍珠黑", "皓月白"],
+            "price": "199.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCuAAjKRAADLUUdnwjk279.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCiAKARJAAFV_VSDp_s040.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/01/D5/Cgbj0VmRZCiAKwA3AADYrtiPJlQ156.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "POP 真无线蓝牙耳机",
+            "des": "六期免息 双无线 零设限",
+            "color": ["皓月白"],
+            "price": "499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/5B/Cgbj0Fr6g3mAMv7iAAEPK93D2ss728.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/B2/Cgbj0Ftf0VWAFEcfAARTZSRrkgc297.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/C1/Cgbj0Vtf0VaAaQBxAAn1xRRXqdw560.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 Flow Bass 三单元耳机",
+            "des": "延续经典，重赋新声",
+            "color": ["极光灰"],
+            "price": "499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqU2APGluAAG3aLo__JM745.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqUmAFYETAAFa6N_vvyg768.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/ED/Cgbj0FpeqUmAffAJAAEOvEu79dA449.png680x680.jpg"
+            ],
+            "colorImg": ["//openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png@240x240.png"]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 LIVE 四单元动铁耳机",
+            "des": "享12期免息",
+            "color": ["银色"],
+            "price": "1299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/FD/Cgbj0VpeqaKAHV5ZAAPL0xdfesY948.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKANO8gAAOof9DmMiY687.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/F0/Cgbj0FpeqaeAVOpbAAMSIlpRyo4296.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 LIVE 四单元动铁耳机15周年限定版",
+            "des": "浮光掠影 打造科幻般的透镜屏显",
+            "color": ["枪色"],
+            "price": "1599.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/98/Cgbj0FujABGAaEBFAARRnqv1i4M670.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A7/Cgbj0VujAAyAZA--AANmVwbwjHU122.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A7/Cgbj0VujAAyALRZpAAP2fhZkuQs316.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/98/Cgbj0FujAAyAasWPAAbxeXTRTmk086.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/06/98/Cgbj0FujABGAaEBFAARRnqv1i4M670.png@240x240.jpg"
+            ]
+        }
+    ],
+    "smart":[
+        {
+            "name": "三星Gear Fit 手环",
+            "des": "人气商品 畅销明星款",
+            "color": ["黑色", "红色"],
+            "price": "1499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QFeAZ7GXAANZcdLRBUk293.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFiAanbfAAIS0xj9ltE851.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QD6AeFhGAANqZO2Aimw609.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "猎豹移动小豹ai翻译棒便携语音翻译",
+            "des": "一键翻译，灵活方便",
+            "color": ["黑色"],
+            "price": "299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTOAf82xAAJAcMkrsAs736.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTeAdzsKAANgWREQY9w835.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTaAZX0gAAp50cEtB4Y624.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅族手环",
+            "des": "腕间流动的心率专家",
+            "color": ["黑色"],
+            "price": "169.00",
+            "stock": true,
+            "compatible": "Android/iOS",
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAQPDGAAPhPu3QlRw570.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAE13JAAK1qX5uOUc838.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFvmAKqehAAEitg7s_D0643.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Misfit Shine2智能手环 定制版",
+            "des": "彩色LED 无需充电 魅族定制版",
+            "color": ["玫瑰金"],
+            "price": "799.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyADceJAAKQd4GC3LI459.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyAfdELAAPbqeWnrug391.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKK-AcjyTAAcArYn8bXg075.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "三星Gear Fit 手环",
+            "des": "人气商品 畅销明星款",
+            "color": ["黑色", "红色"],
+            "price": "1499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QFeAZ7GXAANZcdLRBUk293.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFiAanbfAAIS0xj9ltE851.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/1B/Cgbj0Vt2QFOAeJkIAAMHlEx9fnI129.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/0C/Cgbj0Ft2QD6AeFhGAANqZO2Aimw609.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "猎豹移动小豹ai翻译棒便携语音翻译",
+            "des": "一键翻译，灵活方便",
+            "color": ["黑色"],
+            "price": "299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTOAf82xAAJAcMkrsAs736.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/4A/Cgbj0FuHoTeAdzsKAANgWREQY9w835.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTaAZX0gAAp50cEtB4Y624.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/5A/Cgbj0VuHoTOAAwbSAACoQFtDEFI253.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅族手环",
+            "des": "腕间流动的心率专家",
+            "color": ["黑色"],
+            "price": "169.00",
+            "stock": true,
+            "compatible": "Android/iOS",
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAQPDGAAPhPu3QlRw570.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/CnQOjVhGFveAE13JAAK1qX5uOUc838.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFvmAKqehAAEitg7s_D0643.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/C8/Cix_s1hGFveAE3RcAAOqzSlfPuA022.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Misfit Shine2智能手环 定制版",
+            "des": "彩色LED 无需充电 魅族定制版",
+            "color": ["玫瑰金"],
+            "price": "799.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyADceJAAKQd4GC3LI459.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKKyAfdELAAPbqeWnrug391.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/4F/Cix_s1fNKK-AcjyTAAcArYn8bXg075.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/4F/CnQOjVfNKKyAe_K4AAMI3IFWeh0014.png@240x240.jpg"
+            ]
+        }
+    ],
+    "lifes":[
+        {
+            "name": "魅蓝20寸旅行箱 酷MA萌定制版",
+            "des": "萌友为伴，为出行添点乐趣",
+            "color": ["黑色", "红色"],
+            "price": "599.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png@240x240.jpg",
+                "//openfile.meizu.com/group1/M00/03/49/Cgbj0FqwvJWAFb0PAAleBEBSg7E656.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "魅蓝 休闲旅行双肩包",
+            "des": "曲面一体式 多功能隔层 极简与线条之美",
+            "color": ["黑色", "灰色"],
+            "price": "169.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/BE/Cix_s1g7l-yANQsqAAJSWz441uE109.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/BE/CnQOjVg7l-yAGFhqAAGVxyv1O3k018.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/BE/CnQOjVg7l-yALghoAALMOHlwEJk345.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/00/BE/Cix_s1g7l-yANQsqAAJSWz441uE109.jpg@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAKnozAAVBTlzLU4U593.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "JORDAN&JUDY/佐敦朱迪 时尚化妆包",
+            "des": "时尚设计 超轻质感",
+            "color": ["粉色", "灰色"],
+            "price": "39.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JaAT5SoAAQcruhGbYQ353.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/A7/Cgbj0Fq93JeAAl4lAAZZrA1qRaM364.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JiASbYfAAca7iyqTFA868.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93MWAAgquAAkvZqJBeDE496.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/03/B6/Cgbj0Vq93JaAT5SoAAQcruhGbYQ353.jpg@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/03/A8/Cgbj0Fq93J2ALFB9AAOhLtgVxE8169.jpg@240x240.jpg"
+            ]
+        },
+        {
+            "name": "cabecade 经典飞行员偏光太阳镜 GT0008",
+            "des": "经典爆款  出行必备  偏光镜片",
+            "color": ["黑色"],
+            "price": "49.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWABckeAAFftlAHFk4094.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWAWZrNAAJl94xdLUU030.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/71/Cgbj0FtFfUWAAbppAAGKZS6w3Ao210.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/37/Cgbj0FuFH6qAWy8YAAIMBukCUmk489.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/81/Cgbj0VtFfUWABckeAAFftlAHFk4094.png@240x240.png"
+            ]
+        },
+        {
+            "name": "cabecade 磨砂防蓝光手机电脑护目镜  T5005",
+            "des": "百搭脸型  金属镜腿 40%蓝光过滤",
+            "color": ["磨砂黑"],
+            "price": "49.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifGAaX-iAAFnixqaJVM736.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifWAAhbwAAEsQeehE9E777.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/F8/Cgbj0FtyifGAbaPJAAE_erMlkls803.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/07/Cgbj0VtyifGAaX-iAAFnixqaJVM736.png@240x240.png"
+            ]
+        },
+        {
+            "name": "乐基因 Nalgene 随手杯 750ml",
+            "des": "美国原装进口学生户外运动水壶",
+            "color": ["冰川蓝", "嫩绿色", "甜菜红"],
+            "price": "116.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-LjOATkwyAAL6jue7HwA707.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/C0/Cgbj0Vq-KriAPEeSAATnUI1uGcE222.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B7/Cgbj0Fq-LjSAW3aJAAL6j-qAeNA549.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/03/B7/Cgbj0Fq-LjSAW3aJAAL6j-qAeNA549.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-LjOATkwyAAL6jue7HwA707.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/03/C6/Cgbj0Vq-Ll2AdEARAALydsaegYs837.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/03/B2/Cgbj0Fq-KvOAK2O9AAOpvrVc8nQ709.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Corkcicle酷仕客Waterman系列不锈钢咖啡杯",
+            "des": "居家办公 网红保温保冷咖啡杯",
+            "color": ["哑光黑", "巴黎绿"],
+            "price": "278.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-qAOw4JAARscGx6atg976.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-uAAzQCAAOyOGLMHuE928.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/C1/Cgbj0Fow0-uAblRWAAPw4H6MwcI415.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/CF/Cgbj0Vow0-qAOw4JAARscGx6atg976.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/02/C1/Cgbj0Fow0-6AE7brAARiezOpq4g258.png@240x240.jpg"
+            ]
+        },
+        {
+            "name": "Corkcicle酷仕客Waterman系列不锈钢保温杯",
+            "des": "德国红点奖设计大奖 进口PP材质",
+            "color": ["哑光黑", "丝缎白", "珊瑚红"],
+            "price": "218.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7GAUe-MAAQg-m2VW9M765.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/B8/Cgbj0Voma7GAfBRIAALidbcSph8900.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/B8/Cgbj0Voma7GAFQ3gAAUlSqYBv-Y387.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7aAKfs-AAij8tR9PYs407.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/02/B9/Cgbj0VombAqAdmcUAANhhs_07Mk732.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma9yAMz2QAAFz_SfRC3s211.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/02/AA/Cgbj0Foma7GAUe-MAAQg-m2VW9M765.png@240x240.jpg"
+            ]
+        }
+    ]
+}

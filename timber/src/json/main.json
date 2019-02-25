@@ -1,0 +1,552 @@
+{
+    "sales":[
+        {
+            "title":"热销推荐",
+            "english":"Hot Sales",
+            "titlespan":"更多",
+            "path":"./images/",
+            "hotul":[
+                {
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                }
+            ]
+        },
+        {
+            "title":"限时优惠",
+            "english":"Limited Time Discount",
+            "titlespan":"更多",
+            "path":"./images/",
+            "hotul":[
+                {
+                    "img":"home_06.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥800/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥800/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥800/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥800/m",
+                    "sup":"3"
+                },
+                {
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥800/m",
+                    "sup":"3"
+                }
+            ]
+        }
+    ],
+    "sellers":[
+        {
+            "path":"./images/",
+            "sell":[
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                }
+            ]
+        },
+        {
+            "path":"./images/",
+            "sell":[
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                }
+            ]
+        },
+        {
+            "path":"./images/",
+            "sell":[
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                }
+            ]
+        },
+        {
+            "path":"./images/",
+            "sell":[
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_07.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_08.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_05.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_15.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                },
+                {
+
+                    "img":"home_03.png",
+                    "text":"白木 板材/非洲刚果/COM2",
+                    "price":"￥500/m",
+                    "sup":"3"
+                }
+            ]
+        }
+    ],
+    "brand":[
+        {
+            "text":"品牌专区",
+            "span":"Brand zone",
+            "more":"更多",
+            "path":"./images/",
+            "brandul":[
+                {
+                    "img":"3_03.png"
+                },
+                {
+                    "img":"3_05.png"
+                },
+                {
+                    "img":"3_07.png"
+                },
+                {
+                    "img":"3_09.png"
+                },
+                {
+                    "img":"3_11.png"
+                }
+            ]
+        },
+        {
+            "text":"合作伙伴",
+            "span":"Cooperative Partner",
+            "more":"更多",
+            "path":"./images/",
+            "brandul":[
+                {
+                    "img":"3_03.png"
+                },
+                {
+                    "img":"3_05.png"
+                },
+                {
+                    "img":"3_07.png"
+                },
+                {
+                    "img":"3_09.png"
+                },
+                {
+                    "img":"3_11.png"
+                }
+            ]
+        }
+    ],
+    "new":[
+        {
+            "img":"./images/home_02_11.png",
+            "text":"新手上路",
+            "p1":"售后流程",
+            "p2":"购物流程",
+            "p3":"订购方式"
+        },
+        {
+            "img":"./images/home_02_13.png",
+            "text":"会员中心",
+            "a1":"./pages/mine.html",
+            "p1":"账户管理",
+            "p2":"我的收藏",
+            "p3":"我的订单"
+        },
+        {
+            "img":"./images/home_02_15.png",
+            "text":"配送与支付",
+            "p1":"货到付款区域",
+            "p2":"配送支付查询",
+            "p3":"支付方式说明"
+        },
+        {
+            "img":"./images/home_02_17.png",
+            "text":"服务与保证",
+            "p1":"退换货原则",
+            "p2":"售后服务保证",
+            "p3":"产品质量保证"
+        },
+        {
+            "img":"./images/home_02_19.png",
+            "text":"联系我们",
+            "p1":"隐私保护",
+            "p2":"资讯热点",
+            "p3":"公司简介"
+        }
+    ],
+    "new2":[
+        {
+            "img":"../images/home_02_11.png",
+            "text":"新手上路",
+            "p1":"售后流程",
+            "p2":"购物流程",
+            "p3":"订购方式"
+        },
+        {
+            "img":"../images/home_02_13.png",
+            "text":"会员中心",
+            "a2":"./mine.html",
+            "p1":"账户管理",
+            "p2":"我的收藏",
+            "p3":"我的订单"
+        },
+        {
+            "img":"../images/home_02_15.png",
+            "text":"配送与支付",
+            "p1":"货到付款区域",
+            "p2":"配送支付查询",
+            "p3":"支付方式说明"
+        },
+        {
+            "img":"../images/home_02_17.png",
+            "text":"服务与保证",
+            "p1":"退换货原则",
+            "p2":"售后服务保证",
+            "p3":"产品质量保证"
+        },
+        {
+            "img":"../images/home_02_19.png",
+            "text":"联系我们",
+            "p1":"隐私保护",
+            "p2":"资讯热点",
+            "p3":"公司简介"
+        }
+    ],
+    "footer":[
+        {
+            "span":[
+                {
+                    "text":"关于买木网"
+                },
+                {
+                    "text":"帮助中心"
+                },
+                {
+                    "text":"开放平台"
+                },
+                {
+                    "text":"诚聘英才"
+                },
+                {
+                    "text":"联系我们"
+                },
+                {
+                    "text":"网站合作"
+                },
+                {
+                    "text":"法律声明"
+                },
+                {
+                    "text":"网站合作"
+                },
+                {
+                    "text":"知识产权"
+                },
+                {
+                    "text":"廉正举报"
+                },
+                {
+                    "text":"规则意见征集"
+                }
+            ]
+        },
+        {
+            "text":"增值电信业务经营许可证：2B-20110446"
+        },
+        {
+            "text":"&copy;2017-2020 maimuwang.net 版权所有"
+        }
+    ]
+
+}

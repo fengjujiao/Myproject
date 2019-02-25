@@ -1,0 +1,745 @@
+{
+    "classify": "影音数码",
+    "contents": [
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "魅族 EP2X 耳机",
+            "des": "契合声音的流动之美",
+            "color": ["珍珠黑", "皓月白"],
+            "price": "69.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHCAXNI5AAFhUsyWVeM680.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHGAB-DXAADPHff_mNQ945.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHKAKfk3AADagmucX-w385.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcVpeAOmoaAAGh-ubroNg891.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "魅族 EP-31 耳机",
+            "des": "舒适均衡 精致优雅",
+            "color": ["金色", "银色"],
+            "price": "99.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1449643778-41533.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449643978-63020.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1449643778-41533.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/20/Cgbj0Ft-WkOAAhCKAAFqcNe6c3M482.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "ME20入耳式耳机",
+            "des": "享受 不绝于耳",
+            "color": ["珍珠黑", "皓月白"],
+            "price": "199.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCuAAjKRAADLUUdnwjk279.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/C8/Cgbj0FmRZCiAKARJAAFV_VSDp_s040.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/01/D6/Cgbj0VmRZCuAfRtpAADkzYNWvkY311.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/01/D5/Cgbj0VmRZCiAKwA3AADYrtiPJlQ156.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 Flow 三单元耳机",
+            "des": "用得惬意 听得尽兴",
+            "color": ["月光银", "星空黑"],
+            "price": " 499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/BC/Cgbj0Vl22XGAC6YIAAGautlHsjo741.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/AF/Cgbj0Fl22XCAOMr8AAFmhA2KyJw165.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/AF/Cgbj0Fl22XSAMBp7AAETFUHsUa0559.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/BD/Cgbj0Vl22XSAayx1AAIjInTkmEI443.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/01/AE/Cgbj0Fl22W2AJpEcAAG7IoqPYcI904.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/01/BC/Cgbj0Vl22XGAC6YIAAGautlHsjo741.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 Flow Bass 三单元耳机",
+            "des": "延续经典，重赋新声",
+            "color": ["极光灰"],
+            "price": "499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqU2APGluAAG3aLo__JM745.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqUmAFYETAAFa6N_vvyg768.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/ED/Cgbj0FpeqUmAffAJAAEOvEu79dA449.png680x680.jpg"
+            ],
+            "colorImg": ["//openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png@240x240.png"]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 LIVE 四单元动铁耳机",
+            "des": "享12期免息",
+            "color": ["银色"],
+            "price": "1299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/FD/Cgbj0VpeqaKAHV5ZAAPL0xdfesY948.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKANO8gAAOof9DmMiY687.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/F0/Cgbj0FpeqaeAVOpbAAMSIlpRyo4296.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/EF/Cgbj0FpeqaKAYLSmAATXqR4BPH8829.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "魅族 LIVE 四单元动铁耳机15周年限定版",
+            "des": "浮光掠影 打造科幻般的透镜屏显",
+            "color": ["枪色"],
+            "price": "1599.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/98/Cgbj0FujABGAaEBFAARRnqv1i4M670.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A7/Cgbj0VujAAyAZA--AANmVwbwjHU122.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A7/Cgbj0VujAAyALRZpAAP2fhZkuQs316.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/98/Cgbj0FujAAyAasWPAAbxeXTRTmk086.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/06/98/Cgbj0FujABGAaEBFAARRnqv1i4M670.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "POP 真无线蓝牙耳机",
+            "des": "六期免息 双无线 零设限",
+            "color": ["皓月白"],
+            "price": "499.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/5B/Cgbj0Fr6g3mAMv7iAAEPK93D2ss728.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/B2/Cgbj0Ftf0VWAFEcfAARTZSRrkgc297.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/C1/Cgbj0Vtf0VaAaQBxAAn1xRRXqdw560.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "魅族 HALO 激光蓝牙耳机",
+            "des": "11.9日限时5折抢购",
+            "color": ["蓝色", "红色"],
+            "price": "999.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/16/Cgbj0VrcX6OAAW6lAAPIqwaY3Yk458.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6iAEaacAAJ7Q938GXY376.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/08/Cgbj0FrcX6OAFhv3AANLfyLevRA854.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/04/08/Cgbj0FrcX6iAfZfmAARPvQUH0FM087.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "耳塞式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "魅族 EP21耳机",
+            "des": "悦耳 声形俱佳",
+            "color": ["白色"],
+            "price": "89.00",
+            "stock": false,
+            "img": [
+                "//storeimg.meizu.com/product/1449643421-24522.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449643546-44345.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1449643635-44506.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1449643421-24522.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "魅蓝 EP52 蓝牙耳机",
+            "des": "轻盈悦耳 动无拘束",
+            "color": ["红黑色"],
+            "price": "249.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mABV4HAAKspJD9ivQ842.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mAAYozAADrD9V2P1k798.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55mADEtFAAEhCZocsP8456.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55yALEgQAAJce6x8m1A568.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mABV4HAAKspJD9ivQ842.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "魅族 EP52 Lite 蓝牙耳机",
+            "des": "超高性价比创造无线新声代",
+            "color": ["深蓝", "月白"],
+            "price": "129.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-qAa4isAAPCiphjtvk287.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/A7/Cgbj0Vui__GAY72EAAhHxkugXuY418.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-OAIlOuAAIlimOCLcA452.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "JBL C100SI 超轻入耳线控通话耳机",
+            "des": "一键线控 高清通话",
+            "color": ["白色", "黑色", "红色"],
+            "price": "59.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/32/Cgbj0FjPhieAMdC2AAM3HjA-7bo188.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/33/Cgbj0FjPhimAMF2JAAF76c3e3Uk310.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/33/Cgbj0FjPhi6AJZaLAAKAF8170YM784.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/06/Cgbj0VjPhjCACQDSAARVc_fns58288.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/05/Cgbj0VjPhiaAAFDnAAG0yCRq310665.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/00/05/Cgbj0VjPhieAGM_wAAGCxtdck5Y656.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/01/32/Cgbj0FjPhieAMdC2AAM3HjA-7bo188.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "硕美科 G618 “吃鸡”游戏耳机",
+            "des": "双麦克风设计，可拆卸翼尖软骨",
+            "color": ["黑红色"],
+            "price": "99.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/74/Cgbj0Vs9gNmAFSm9AAKi9_OpwEw424.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/91/Cgbj0VsNHyuAMWA7AADa0Td-Ryk378.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/91/Cgbj0VsNHyeAfF4nAADnzMtJIK0566.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/74/Cgbj0Vs9gNmAFSm9AAKi9_OpwEw424.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "先锋  SE CL35S 耳机",
+            "des": "12.5mm驱动，强劲低频，还原纯净音质",
+            "color": ["黑色"],
+            "price": " 269.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1450662821-39326.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1450663032-51531.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1450663072-52686.png@680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/7D/Cgbj0VsDgUWAJR8UAAI6LuarTvE732.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1450662821-39326.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": false,
+            "name": "先锋SEC-E221BT无线双耳蓝牙迷你入耳耳机",
+            "des": "分离使用智能随身充电续航持久",
+            "color": ["白色", "黑色"],
+            "price": "299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/07/Cgbj0Vmx_6mAfWosAANaF3cFRnw212.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/F9/Cgbj0Fmx_6mAULSmAAQViC_lagA124.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/F9/Cgbj0Fmx_6mAU9fdAALKEGzO70U052.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/07/Cgbj0Vmx_66AWCbNAAI68CAZlOQ847.png680x680.jpg"
+            ],
+            "colorImg": [
+                "https://openfile.meizu.com/group1/M00/02/07/Cgbj0Vmx_6mAfWosAANaF3cFRnw212.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/02/07/Cgbj0Vmx_7eAZacnAAQf4L84I14740.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "先锋SEC-S201BT入耳式无线蓝牙运动耳机",
+            "des": "纳米防汗 专业耳翼 持久续航",
+            "color": ["白色", "红色", "橙色"],
+            "price": "199.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/34/Cgbj0FjQhy6AEbU5AAF90-HGEVM108.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/07/Cgbj0VjQhy6Afi7kAAE5ti5dKcg245.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/07/Cgbj0VjQhzGAXgRzAATfNg5pT8I092.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/34/Cgbj0FjQhzGAaLoWAAIK7zcL1OU988.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/01/34/Cgbj0FjQhy6AEbU5AAF90-HGEVM108.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/00/08/Cgbj0VjQh2eAThpGAAHqv6t4jec638.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/01/34/Cgbj0FjQh0eAIqLnAAGyMxlIlbs112.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "JBL T120A立体声入耳式耳机",
+            "des": "Pure Bass声音 随时随地置身演唱会之中",
+            "color": ["黑色", "红色"],
+            "price": "89.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/7B/Cgbj0FoBV0OAVO4FAAHWxio0Reo515.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/5D/Cgbj0Fn2wVmATufnAACgLiu4Oso503.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/89/Cgbj0VoBV0OADZdiAALIhpToezI851.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/6B/Cgbj0Vn2wVuAPxb-AAGKOiBQlXU329.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/7B/Cgbj0FoBV0OAVO4FAAHWxio0Reo515.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/02/89/Cgbj0VoBV4uACx5SAAHVXRwlyI8531.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "先锋SEC-CL31 HIFI入耳式耳机",
+            "des": "个性三角腔体设计 佩戴舒适 防缠绕 无线控",
+            "color": ["白色", "黑色", "金色"],
+            "price": "79.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/21/CnQOjVen_hSAXrEAAAI2KSPGxPo483.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/22/Cix_s1en_hWAFyy9AAJqOJOr7Ak250.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/21/CnQOjVen_hWAG7wHAAP4jlFgkb0323.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/22/Cix_s1en_haAMJkqAAOKx6sGz4U002.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/21/CnQOjVen_hSAXrEAAAI2KSPGxPo483.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/00/22/CnQOjVen_kSAJ5O8AAHA0-vp2rU394.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/21/Cix_s1en_f6AS_t9AAJZInmi7yg124.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/22/Cix_s1en_i2AK0fNAAJIUw4Khbs325.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "头戴式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "先锋SEC-MJ101BT头戴式蓝牙耳机",
+            "des": "智能时代 一触即连 持久续航 佩戴舒适 ",
+            "color": ["白色", "黑色", "红色"],
+            "price": "499.00",
+            "stock": false,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/B1/CnQOjVgtYJOALlCQAAKX_1Byl7o403.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/B1/CnQOjVgtYJOAas28AARNSl24FYk824.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/B2/Cix_s1gtYJOAHe2VAAL_P3QclAA277.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/B2/CnQOjVgtYJaAA2RvAAWs0NSFDXs405.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/B1/CnQOjVgtYJOALlCQAAKX_1Byl7o403.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/00/B2/Cix_s1gtYNOAYoywAAKw-k6TDAo748.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/B2/CnQOjVgtYOaAAzgMAANx1q4PsjM548.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "先锋SEC-CL32S入耳式耳机",
+            "des": "人声高清通透 三键线控带麦",
+            "color": ["黑色", "金色", "红色"],
+            "price": " 79.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/00/AF/CnQOjVgtUiKAQNEBAAKT2n9690g275.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/AF/CnQOjVgtUiKAW74hAAJbxPBCcsY972.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/B0/Cix_s1gtUiKASzNUAAIf5HHidjI516.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/B0/Cix_s1gtUjmANDluAALf3YYEzUk898.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/00/AF/CnQOjVgtUiKAQNEBAAKT2n9690g275.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/00/B0/CnQOjVgtUmSAD1XgAAHZhlEVh-M430.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/00/B1/Cix_s1gtU0eAQln-AAHAKoM5xzQ631.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "先锋 SEC-CL31S 耳机",
+            "des": "线控高清通话，防缠绕线材，三角腔体",
+            "color": ["黑色", "金色"],
+            "price": "95.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1458092628-71347.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1450664098-48898.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1450664138-47204.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1450664846-59359.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1458092628-71347.png@240x240.png",
+                "https://storeimg.meizu.com/product/1458092592-73849.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "索尼WI-1000X Hi-Res颈挂式蓝牙降噪耳机",
+            "des": "智能降噪 LDAC传输高音质",
+            "color": ["黑色", "香槟色"],
+            "price": "2299.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/DC/Cgbj0FpMiyWARXvMAAKojVIQvzA022.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/EA/Cgbj0VpMiyWAL-1qAAMm52jemqs849.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/EA/Cgbj0VpMiyqADgZZAAKQc134qjs131.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/EA/Cgbj0VpMiyWAVR5aAAJUM8LC3B4283.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/DC/Cgbj0FpMiyWARXvMAAKojVIQvzA022.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/02/DC/Cgbj0FpMiy-Aaq9KAAI_dQTbiGw470.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "三星 EO-BG950弹力项圈运动蓝牙耳机",
+            "des": "双路扬声器 通话噪音/消除回音 P2i防汗水涂层",
+            "color": ["白色", "黑色", "蓝色"],
+            "price": "399.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/6A/Cgbj0FuXWBGAbeyhAAGGklYwoFo196.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/79/Cgbj0VuXWBGAUEp5AAHaDa2h44I036.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/79/Cgbj0VuXWAyAFZF5AAHXnIHD7OA532.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/6A/Cgbj0FuXWBGAbeyhAAGGklYwoFo196.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/6B/Cgbj0FuXWCSAf-8SAAG7ynShP-0229.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/7A/Cgbj0VuXWByAeergAAG0Hoik9d8674.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "JBL T205 半入耳式音乐耳机",
+            "des": "半入耳式设计，低音增效，佩戴轻松不痛耳",
+            "color": ["黑色", "玫瑰金", "银色", "香槟金"],
+            "price": "99.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/31/Cgbj0Vt_rHOAMS3rAAGvFpiSyZk024.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/22/Cgbj0Ft_rHSAR89lAAGcro77Wy0058.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/22/Cgbj0Ft_rHiAVTWxAAFo5DiAiqw445.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/32/Cgbj0Vt_rHiADZ0rAAGskhQLxRA760.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/31/Cgbj0Vt_rG-AM22PAAGwOgqpjkI836.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/31/Cgbj0Vt_rHOAMS3rAAGvFpiSyZk024.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/22/Cgbj0Ft_rHyAQ1DiAAGZNUB_qmU265.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/31/Cgbj0Vt_rGWAJDoOAAGYVSh4IwI689.png@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "挂耳式",
+            "type": "蓝牙耳机",
+            "microphone": true,
+            "name": "先锋SEC-S531BT耳挂式蓝牙运动耳机",
+            "des": "反光线材 防汗设计",
+            "color": ["红色"],
+            "price": "199.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/35/Cgbj0FjQh6uACjD1AALAZxkJA0A721.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/36/Cgbj0FjQh6yAYdVDAANjn_sRvLA519.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/00/09/Cgbj0VjQh66ALAByAAPPugSJyhY686.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/36/Cgbj0FjQh66ASnDbAAGwXFc4Bdk522.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/01/35/Cgbj0FjQh6uACjD1AALAZxkJA0A721.png@240x240.png"
+            ]
+        },
+        {
+            "wear": "头戴式",
+            "type": "有线耳机",
+            "microphone": true,
+            "name": "硕美科 G941 震动款游戏耳机",
+            "des": "影音4D体验，绚丽LED灯光，轻量化设计",
+            "color": ["白色", "黑色"],
+            "price": "249.00",
+            "stock": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/04/90/Cgbj0VsNHBqATKHZAAICm4qCATI324.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/81/Cgbj0FsNHBqAQMhZAAKFCgY3P7g884.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/81/Cgbj0FsNHBqAe2yMAAJebdLWNgQ936.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/04/90/Cgbj0VsNHBqATKHZAAICm4qCATI324.jpg@240x240.png",
+                "https://openfile.meizu.com/group1/M00/04/81/Cgbj0FsNHEeAImCDAALj3DPQ_V0521.jpg@240x240.jpg"
+            ]
+        },
+        {
+            "wear": "入耳式式",
+            "type": "有线耳机",
+            "microphone": false,
+            "name": "先锋 SE-CL751 重低音入耳式音乐耳机",
+            "des": "日本进口  重低音 噪音隔离",
+            "color": ["红色", "黑色"],
+            "price": "269.00",
+            "stock": true,
+            "img": [
+                "//storeimg.meizu.com/product/1451552652-38766.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1458182980-11447.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1458183002-76336.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1458183040-94957.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1451552652-38766.png@240x240.png",
+                "https://storeimg.meizu.com/product/1451552533-74986.png@240x240.jpg"
+            ]
+        },
+        {
+            "type": "",
+            "name": "魅族 Gravity 悬浮音响",
+            "des": "11日0点限量开售",
+            "color": ["黑色"],
+            "price": "1099.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/EA/Cgbj0FttMKWAPWDyAAFoG4YEzpI936.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/DF/Cgbj0FtqUb-ABRD3AAKfscc03jg660.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/EE/Cgbj0VtqUbWAAq5bAANXawjIqqI661.jpg680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/DF/Cgbj0FtqUbWADzRQAAN-6P1Wl2g692.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/EA/Cgbj0FttMKWAPWDyAAFoG4YEzpI936.png@240x240.png"
+            ]
+        },
+        {
+            "type": "",
+            "name": "JBL GO PLAYER无线蓝牙便携迷你音响 收音机",
+            "des": "主流蓝牙4.2 多种播放模式 强力续航",
+            "color": ["黑色", "蓝色", "红色"],
+            "price": "399.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/06/69/Cgbj0FuXV7aAdi0eAALGqD-Jms0469.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/69/Cgbj0FuXV72AUm5CAAMRXokRpqE916.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/06/79/Cgbj0VuXV72AcKAeAAIg2yVmvTI200.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/06/69/Cgbj0FuXV7aAdi0eAALGqD-Jms0469.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/06/69/Cgbj0FuXV7aAH0rRAAcLqAMd0SQ687.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/06/68/Cgbj0FuXV6aAQS4UAAbpH1VV4Ic340.png@240x240.jpg"
+            ]
+        },
+        {
+            "type": "",
+            "name": "JBL GO 音乐金砖 户外便携迷你蓝牙音箱",
+            "des": "全网爆款网红蓝牙音箱",
+            "color": ["黑色", "粉色", "绿色", "红色"],
+            "price": "199.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//storeimg.meizu.com/product/1459308493-19756.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1459308544-84505.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1459308584-73533.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1459318343-40229.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1453688346-89649.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/02/A8/Cgbj0VoVNqWARAvCAARdkqp7YTU831.png@240x240.jpg",
+                "https://storeimg.meizu.com/product/1459414449-33166.png@240x240.jpg",
+                "https://storeimg.meizu.com/product/1459308493-19756.png@240x240.jpg"
+            ]
+        },
+        {
+            "type": "蓝牙",
+            "name": "先锋（Pioneer）APS-BA501W防水蓝牙音箱",
+            "des": "7级防水，免提通话",
+            "color": ["黑色", "蓝色", "红色", "橙色"],
+            "price": "399.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//storeimg.meizu.com/product/1451874508-75697.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1458198167-15753.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1458198187-24140.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1458198326-33570.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1451554212-54265.png@240x240.png",
+                "https://storeimg.meizu.com/product/1451874392-36453.png@240x240.jpg",
+                "https://storeimg.meizu.com/product/1451874634-95788.png@240x240.jpg",
+                "https://storeimg.meizu.com/product/1451874508-75697.png@240x240.jpg",
+                "https://storeimg.meizu.com/product/1451554212-54265.png@240x240.jpg"
+            ]
+        },
+        {
+            "type": "蓝牙/WIFI",
+            "name": "天猫精灵 M1曲奇智能音箱",
+            "des": "小巧玲珑 生活百搭",
+            "color": ["黑色", "蓝色", "粉色", "灰色"],
+            "price": "299.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/04/7D/Cgbj0VsDtGiAPhynAAQOfnAwykM966.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/04/7D/Cgbj0VsDtGiAPhynAAQOfnAwykM966.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/04/7D/Cgbj0VsDtGiAPhynAAQOfnAwykM966.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/04/6E/Cgbj0FsDtG2AemdAAAcHhwxGG-8783.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/04/7D/Cgbj0VsDtGiADcFHAAX5HNa_VeI886.png@240x240.jpg",
+                "https://openfile.meizu.com/group1/M00/04/6E/Cgbj0FsDtGiAdRG7AAhpuDpmkGk035.png@240x240.jpg"
+            ]
+        },
+        {
+            "type": "蓝牙",
+            "name": "山进莫扎特原木便携蓝牙音箱收音机",
+            "des": "音乐神童 艺术品级",
+            "color": ["桃木色", "邂逅粉"],
+            "price": "399.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/C6/Cgbj0VoqT42AWtjaAAanZc-tewA770.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/C6/Cgbj0VoqT5OAaviJAAbHJHDd9ao266.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/C6/Cgbj0VoqT46AWdJnAAYXqEDyN-E201.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/B8/Cgbj0FoqT5KANi1XAAXVzVyqyJ8390.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/C6/Cgbj0VoqT42AWtjaAAanZc-tewA770.png@240x240.png"
+            ]
+        },
+        {
+            "type": "蓝牙",
+            "name": "山进Mozart邂逅粉原木便携蓝牙音箱收音机",
+            "des": "音乐神童 艺术品级",
+            "color": ["桃木色", "邂逅粉"],
+            "price": "499.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/02/E7/Cgbj0VpDckSARn_DAAl9P9BOGNQ739.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/D9/Cgbj0FpDckSAO9YDAAkf-rLulWM114.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/E7/Cgbj0VpDckSAeNd1AAawaY40iQw459.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/02/D9/Cgbj0FpDckqABlvyAAVTeUO5isk198.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/02/E7/Cgbj0VpDckSARn_DAAl9P9BOGNQ739.png@240x240.png"
+            ]
+        },
+        {
+            "type": "",
+            "name": "萌奇 魔鬼猫音魔音箱",
+            "des": "只手可握 小巧便携",
+            "color": ["黑色", "红色"],
+            "price": "128.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/05/8A/Cgbj0FtIRyeAfTWVAAd3XIbuMlM754.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/8A/Cgbj0FtIRyuAerz5AAXNAUhHr-8875.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/05/9A/Cgbj0VtIRy2AQj4nAAJWeWDvEug962.jpg680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/05/89/Cgbj0FtIRx-Aeq-cAASU5ZvWpVY729.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/05/8A/Cgbj0FtIRyeAfTWVAAd3XIbuMlM754.png@240x240.jpg"
+            ]
+        },
+        {
+            "type": "蓝牙",
+            "name": "魅族 Lifeme BTS30 蓝牙音箱",
+            "des": "对称设计 小而灵巧 低功耗 享受音乐的别样精彩",
+            "color": ["白色"],
+            "price": "199.00",
+            "stock": true,
+            "bluetooth": true,
+            "img": [
+                "//storeimg.meizu.com/product/1466412348-38081.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1466412253-61939.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1466412321-54744.png@680x680.jpg",
+                "//storeimg.meizu.com/product/1466412287-36275.png@680x680.jpg"
+            ],
+            "colorImg": [
+                "//storeimg.meizu.com/product/1466412348-38081.png@240x240.png"
+            ]
+        },
+        {
+            "type": "蓝牙/音频接口",
+            "name": "魅族蓝牙小音箱",
+            "des": "好音感 直达心灵",
+            "color": ["深空灰", "皓月白"],
+            "price": "99.00",
+            "stock": false,
+            "bluetooth": true,
+            "img": [
+                "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KSAMlqTAAdurCvtioI146.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/1C/CnQOjVij7KKAb5ZRAAXB66rgoPs717.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KKAOLQiAAR1Ab8yZkI516.png680x680.jpg",
+                "//openfile.meizu.com/group1/M00/01/1C/CnQOjVij7KKAcaEyAAHSmZjjG5E101.png680x680.jpg"
+            ],
+            "colorImg": [
+                "//openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KeAdy0cAAbboUvsAC4250.png@240x240.png",
+                "https://openfile.meizu.com/group1/M00/01/1D/Cix_s1ij7KSAMlqTAAdurCvtioI146.png@240x240.jpg"
+            ]
+        }
+    ]
+}
